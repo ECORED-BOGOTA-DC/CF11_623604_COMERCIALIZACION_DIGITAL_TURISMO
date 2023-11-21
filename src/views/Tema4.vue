@@ -5,17 +5,17 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 #[em Revenue Management]
+      h1 Revenue Management
     
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img01.jpg')})`}" data-aos="fade-right" alt="Imagen decorativa"
       )
       .bloque-texto-g__texto.py-md-5.py-4.px-4(data-aos="fade-left")
-        p.mb-0 #[em Revenue Management], o gestión de ingresos, es una técnica avanzada de gestión de información, que tiene su origen en los años 80, en la industria de las aerolíneas, pero que hoy en día se aplica a varias industrias que cumplen con los requisitos para su uso, entre ellas, la hotelería.
+        p.mb-0 Revenue Management, o gestión de ingresos, es una técnica avanzada de gestión de información, que tiene su origen en los años 80, en la industria de las aerolíneas, pero que hoy en día se aplica a varias industrias que cumplen con los requisitos para su uso, entre ellas, la hotelería.
 
     p(data-aos="fade-right") Seguramente, usted habrá notado cómo cambia el precio de un tiquete aéreo cada vez que se realiza una misma búsqueda, en las mismas fechas. Como ya se mencionó, las aerolíneas han sido las pioneras en el uso de los datos de oferta y demanda para optimizar su política de precios y manejo de inventario.
-    p.mb-5(data-aos="fade-right") Pues, en esencia, eso es #[em Revenue Management], y como lo define Robert Cross, considerado el gurú de este tema, quien indica: 
+    p.mb-5(data-aos="fade-right") Pues, en esencia, eso es Revenue Management, y como lo define Robert Cross, considerado el gurú de este tema, quien indica: 
     
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="flip-up")
@@ -23,26 +23,26 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left(style="color: #3BC192")
             i.fas.fa-quote-right(style="color: #3BC192")
-          h4.text-regular.bloque-texto-f__texto La gestión de ingresos (en inglés, #[em Revenue Management]) es la aplicación disciplinada de herramientas analíticas que predicen el comportamiento del consumidor en un nivel de micromercado, y optimiza la disponibilidad y precio del producto para maximizar el crecimiento de los ingresos. El objetivo principal de la gestión de ingresos es la venta del producto adecuado al cliente adecuado, en el momento adecuado, al precio correcto y en el canal correcto. La esencia de esta disciplina es la comprensión de la percepción del valor del producto para los clientes, alineándola con precisión a los precios de los productos, la colocación y disponibilidad, para cada segmento de clientes. Todo esto soportado en una cultura organizacional basada en analítica.
+          h4.text-regular.bloque-texto-f__texto La gestión de ingresos (en inglés, Revenue Management) es la aplicación disciplinada de herramientas analíticas que predicen el comportamiento del consumidor en un nivel de micromercado, y optimiza la disponibilidad y precio del producto para maximizar el crecimiento de los ingresos. El objetivo principal de la gestión de ingresos es la venta del producto adecuado al cliente adecuado, en el momento adecuado, al precio correcto y en el canal correcto. La esencia de esta disciplina es la comprensión de la percepción del valor del producto para los clientes, alineándola con precisión a los precios de los productos, la colocación y disponibilidad, para cada segmento de clientes. Todo esto soportado en una cultura organizacional basada en analítica.
           .bloque-texto-f__autor.mb-3
             h3.mb-0 Cross, 1997
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/tema4/img02.png', alt="Imagen decorativa")
 
-    p.mb-5(data-aos="fade-right") El #[em Revenue Management], utiliza la información y ajusta los productos para después ofrecerlos en el momento y al cliente adecuados; a continuación, se explica de manera resumida, este proceso.
+    p.mb-5(data-aos="fade-right") El Revenue Management, utiliza la información y ajusta los productos para después ofrecerlos en el momento y al cliente adecuados; a continuación, se explica de manera resumida, este proceso.
 
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Tabla 4.
-          span #[em Revenue Management]
+          h5 Tabla 3.
+          span Revenue Management
         .tabla-a.color-acento-contenido
-          table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+          table(data-aos="zoom-in"  alt="Tabla que muestra la definición y características del Renueve Management.")
             tbody(style="border-color: transparent")
               tr(data-aos="fade-right")
                 th(style="background-color: #EB702D; width: 2%") &nbsp;
-                td(style="background-color: #FFF; width: 41%; padding: 20px 40px" rowspan="3") #[strong.fs-25 #[em Revenue Management]]<br><br>
+                td(style="background-color: #FFF; width: 41%; padding: 20px 40px" rowspan="3") #[strong.fs-25 Revenue Management]<br><br>
                   p.mb-0 Es el proceso de toma de decisiones, basado en analítica de datos, que aplica tácticas y estrategias para optimizar la disponibilidad y precio del producto, para maximizar ingresos y rentabilidad.
                 td(style="background-color: #EB702D; width: 15%; font-size: 40px;").text-center.text-white #[strong 1]
                 td(style="background-color: #F9CDB4; width: 37%;") El objetivo principal de la gestión de ingresos es la venta del producto adecuado al cliente adecuado, en el momento adecuado, al precio correcto y en el canal correcto.
@@ -55,23 +55,21 @@
                 td(style="background-color: #FFB339; font-size: 40px;").text-center.text-white #[strong 3]
                 td(style="background-color: #FFE3BB;") Es la aplicación disciplinada de herramientas analíticas que predicen el comportamiento del consumidor en un nivel de micromercado, y optimiza la disponibilidad y precio del producto para maximizar el crecimiento de los ingresos.
 
-    p.mb-5(data-aos="fade-right") Un breve recorrido por los hechos más relevantes y que dieron como resultado la implementación de lo que hoy en día se conoce como #[em Revenue Management] se observa en el siguiente recurso educativo:
+    p.mb-5(data-aos="fade-right") Un breve recorrido por los hechos más relevantes y que dieron como resultado la implementación de lo que hoy en día se conoce como Revenue Management se observa en el siguiente recurso educativo:
 
-    figure.mb-5(data-aos="zoom-in")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    p.mb-5(data-aos="fade-right") Al transitar la historia, se observa que los inicios se comparten entre la industria aeronáutica y la hotelería, sin embargo, el #[em Revenue Management], es aplicable a una variedad de industrias y servicios, como los que se muestran en la siguiente figura:
+    SlyderB.mb-5(:datos="datosSlyder" data-aos="zoom-in")
+    
+    p.mb-5(data-aos="fade-right") Al transitar la historia, se observa que los inicios se comparten entre la industria aeronáutica y la hotelería, sin embargo, el Revenue Management, es aplicable a una variedad de industrias y servicios, como los que se muestran en la siguiente figura:
 
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 7.
-          span Requisitos para aplicar #[em Revenue Management]
+          span Requisitos para aplicar Revenue Management
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img03.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img03.svg' alt="Figura que describe los requisitos que se deben aplicar para Revenue Management.<br>Aerolíneas, pasajeros y carga<br>Avisos de televisión<br>Bares y clubes nocturnos<br>Buses<br>Campos de golf<br>Cruceros<br>Hoteles<br>Parqueaderos<br>Restaurantes<br>Renta de vehículos<br>Spas<br>Teatros y eventos públicos")
 
-    p.mb-5(data-aos="fade-right") Al pensar por un momento en un hotel o un avión, es evidente que por ellos pasan muchas personas diferentes, en distintos momentos y, por supuesto, con necesidades distintas. Es allí, en esa variedad de usuarios, donde el #[em Revenue Management] toma forma y, a partir de la definición estudiada, se pueden observar cinco (5) grandes componentes que afectan la estructuración de esta disciplina:
+    p.mb-5(data-aos="fade-right") Al pensar por un momento en un hotel o un avión, es evidente que por ellos pasan muchas personas diferentes, en distintos momentos y, por supuesto, con necesidades distintas. Es allí, en esa variedad de usuarios, donde el Revenue Management toma forma y, a partir de la definición estudiada, se pueden observar cinco (5) grandes componentes que afectan la estructuración de esta disciplina:
     ul.lista-ul--color.lista-ul--separador.ms-5.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
         i.fas.fa-star(style="color: #2B95F9;")
@@ -99,13 +97,13 @@
       li(style="margin-bottom: 2px" data-aos="fade-right")
         i.fas.fa-star(style="color: #2B95F9;")
         | Expansión del mercado.
-    p(data-aos="fade-right") Estos grandes componentes que afectan cómo se lleva a cabo la estructuración del #[em Revenue Management] que se mencionaban antes requieren una mayor explicación, como se ofrece a continuación:
+    p(data-aos="fade-right") Estos grandes componentes que afectan cómo se lleva a cabo la estructuración del Revenue Management que se mencionaban antes requieren una mayor explicación, como se ofrece a continuación:
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.1 La distribución
     
-    p(data-aos="fade-right") El control de la distribución es uno de los primeros hitos de la gestión de ingresos o #[em Revenue Management], y esto tiene que ver con la explosión de canales de distribución acaecidos con la llegada del Internet y la gestión de precios en todos los canales disponibles, lo cual era difícil, por no decir imposible. Por fortuna, a la par del desarrollo, se han creado las herramientas que facilitan el control del inventario, de manera estratégica y no demande mucho tiempo operativamente hablando.
+    p(data-aos="fade-right") El control de la distribución es uno de los primeros hitos de la gestión de ingresos o Revenue Management, y esto tiene que ver con la explosión de canales de distribución acaecidos con la llegada del Internet y la gestión de precios en todos los canales disponibles, lo cual era difícil, por no decir imposible. Por fortuna, a la par del desarrollo, se han creado las herramientas que facilitan el control del inventario, de manera estratégica y no demande mucho tiempo operativamente hablando.
     p.mb-5(data-aos="fade-right") Ahora, al mencionar la palabra estratégica, se hace referencia a temas como:
 
     .row.justify-content-center.align-items-center.mb-4
@@ -114,7 +112,7 @@
           .tarjeta.BG13.p-4(titulo="Canal de inventario")
             p.mb-0 Determinar qué parte de su inventario de habitaciones distribuir a cada canal de venta, es decir, buscar el canal óptimo. Recordemos que el uso de estos canales acarrea un costo, que está atado a una efectividad, por lo que el análisis estratégico de canales es imperativo.
           .tarjeta.BG13.p-4(titulo="Canal directo")
-            p.mb-0 Privilegiar los canales directos, una forma simple de probarlo es buscar un hotel a través de un motor de búsqueda como Google. Si los primeros resultados de búsqueda están dominados por los canales de terceros, como #[em Booking] o #[em Expedia], y los canales directos están por debajo, puede que se deba revisar el sitio web y optimizarlo para los motores de búsqueda y tomar acciones para posicionarse mejor, además de hacer inversiones en mercadeo digital.
+            p.mb-0 Privilegiar los canales directos, una forma simple de probarlo es buscar un hotel a través de un motor de búsqueda como Google. Si los primeros resultados de búsqueda están dominados por los canales de terceros, como Booking o Expedia, y los canales directos están por debajo, puede que se deba revisar el sitio web y optimizarlo para los motores de búsqueda y tomar acciones para posicionarse mejor, además de hacer inversiones en mercadeo digital.
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img04.png' alt="Imagen decorativa")
 
@@ -190,17 +188,17 @@
           h5 Figura 8.
           span Características segmentos
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img07.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img07.svg' alt="Figura que describe las características de los segmentos que son:<br>1. Ser accesible<br>¿Es un segmento que podemos entender?<br>2. Ser accionable<br>¿Reacciona a las acciones comerciales?<br>3. Ser medible<br>¿Cuál es el tamaño del segmento?<br>4. Ser significativo<br>¿Brinda valor a la empresa?")
     
     p.mb-5(data-aos="fade-right") Una vez se han preformado los diferentes segmentos y subsegmentos de mercado, se pueden organizar en la matriz de segmentación, que es un documento que muestra a una sola vista los segmentos que se trabaja.
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 9.
+          h5 Tabla 4.
           span Matriz de segmentación
         .tabla-a.color-acento-contenido
-          table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+          table(data-aos="zoom-in"  alt="Tabla que muestra la manera que se estructura la matriz de segmentación de un negocio.")
             tbody(style="border-color: transparent")
               tr(data-aos="fade-right")
                 th(style="background-color: #F9D9A2; width: 26%; font-size: 18px;" rowspan="3") Individual (#[em Transient])
@@ -281,7 +279,7 @@
                       i.fas.fa-check-circle(style="color: #EB6F2D;")
                       | FAM TRIP (GR-FT)
 
-    p(data-aos="fade-right") La segmentación de su negocio no sólo sirve para allanar el camino hacia las siguientes etapas de la gestión de ingresos o #[em Revenue Management], sino que también beneficia otras operaciones relacionadas, como construir una estrategia de #[em marketing] hacia sus clientes mucho más rentable y entender mejor el mercado (competencia) en términos de estrategia. 
+    p(data-aos="fade-right") La segmentación de su negocio no sólo sirve para allanar el camino hacia las siguientes etapas de la gestión de ingresos o Revenue Management, sino que también beneficia otras operaciones relacionadas, como construir una estrategia de #[em marketing] hacia sus clientes mucho más rentable y entender mejor el mercado (competencia) en términos de estrategia. 
     p.mb-5(data-aos="fade-right") Mucha de la información que se aprende de la segmentación será muy diferente de un hotel a otro, o de un mercado a otro. Una segmentación correcta es un paso muy importante para la gestión eficaz de los ingresos de su propiedad.
 
     separador
@@ -301,7 +299,7 @@
         .BGR05.px-3.py-2
           .h4.mb-0 <i class="fas fa-globe fa-spin"></i> ¿Qué es el precio?
     
-    p.mb-5(data-aos="fade-right") La definición de precio puede variar según el enfoque profesional; por ejemplo, para un abogado, sería una contraprestación monetaria por la ejecución de un contrato, en tanto que, para un economista, sería el costo de obtener un bien o servicio. Pero desde el punto de vista de #[em Revenue Management], el precio va más allá del ingreso generado, en él se encierran los resultados alrededor del precio, como la satisfacción del cliente, el efecto de recompra, el desplazamiento que se pueda generar en otros clientes, la probabilidad de cancelación, e incluso los ingresos adicionales que esa reserva pueda generar en otros departamentos.
+    p.mb-5(data-aos="fade-right") La definición de precio puede variar según el enfoque profesional; por ejemplo, para un abogado, sería una contraprestación monetaria por la ejecución de un contrato, en tanto que, para un economista, sería el costo de obtener un bien o servicio. Pero desde el punto de vista de Revenue Management, el precio va más allá del ingreso generado, en él se encierran los resultados alrededor del precio, como la satisfacción del cliente, el efecto de recompra, el desplazamiento que se pueda generar en otros clientes, la probabilidad de cancelación, e incluso los ingresos adicionales que esa reserva pueda generar en otros departamentos.
 
     .row.justify-content-center.mb-5
       .col-lg-10.BG01(data-aos="fade-right")
@@ -320,7 +318,7 @@
           h5 Tabla 5.
           span Factores que influyen en la fijación de tarifas
         .tabla-a.color-secundario
-          table(style="min-width: auto" data-aos="zoom-in" alt="Texto alternativo tabla")
+          table(style="min-width: auto" data-aos="zoom-in" alt="Tabla que muestra los factores que influyen en la fijación de tarifas.")
             thead(style="border-color: transparent")
               tr(data-aos="fade-right")
                 th(style="background-color: #B1DE19; font-size: 18px;") Factores que influyen en la fijación de tarifas
@@ -367,14 +365,14 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 10.
+          h5 Figura 9.
           span Fijación de precios
         .row.justify-content-center.mb-4
           .col-auto.mb-4(data-aos="fade-right")
             .BGS07.py-2.px-5
               .h4.text-white.mb-0 Fijación de precios
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img09.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img09.svg' alt="Figura que describe la fijación de los precios, esto es:<br>Antes, precio basado en costo: Costo de producción, de distribución y porcentaje de beneficio.<br>Ahora, precio basado en demanda: costo de distribución, porcentaje de beneficio y beneficio de YIELD.")
     
     .row.mb-5(data-aos="fade-right")
       .col-auto
@@ -386,10 +384,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 11.
+          h5 Figura 10.
           span #[em Mix] de tarifas
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img10.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img10.svg' alt="Figura que muestra unas gráficas de la mezcla de tarifas de precio con la demanda heterogénea.")
 
     p(data-aos="fade-right") Como se visualiza en la gráfica, es más fácil enfrentar una demanda heterogénea con un #[em mix] de tarifas mayor. Esto permite tener opciones de precio adecuadas a diferentes necesidades y segmentos del mercado. Claramente, no se trata solo de tener muchas tarifas, sino de hacer un análisis juicioso, que determine cuáles son tarifas necesarias, según el caso. 
     .BGS06.p-4.mb-4(data-aos="fade-right")
@@ -424,13 +422,13 @@
           .tarjeta.BG15.p-3(x="6%" y="91%" numero="10")
             p.text-white.mb-0 Los paquetes son una forma de comercializar productos hoteleros para brindar a los clientes más servicios por precios más atractivos. Se puede empaquetar con productos propios o de terceros. Ejemplo: plan noche de bodas, paquete con alimentación y tours incluidos.
   
-    p.mb-5(data-aos="fade-right") En la imagen que se presenta a continuación, puede verse la parrilla de tarifas ofrecidas en un hotel, teniendo en cuenta las dinámicas explicadas anteriormente.
+    p.mb-5(data-aos="fade-right") En la tabla que se presenta a continuación, puede verse la parrilla de tarifas ofrecidas en un hotel, teniendo en cuenta las dinámicas explicadas anteriormente.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Tabla 6.
       span Parrilla de tarifas 
     .tabla-a.color-acento-contenido.mb-5
-      table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+      table(data-aos="zoom-in"  alt="Se muestran los diferentes precios o tarifas que se pueden ofrecer enun hotel.")
         tbody(style="border-color: transparent")
           tr(data-aos="fade-right")
             th(style="background-color: #FFB338; width: 25%; font-size: 20px;") Tarifa base
@@ -568,7 +566,7 @@
           img(src='@/assets/curso/tema4/img12.jpg' alt="Imagen decorativa")
         .col-lg-9(data-aos="fade-left")
           .p-4
-            p.text-white.mb-0 En el caso de los hoteles, y en general en las industrias donde se utiliza el #[em Revenue Management], el objetivo es determinar qué demanda (ocupación) se tendrá en un periodo específico, pero no se trata de adivinar, sino de desarrollar un modelo estadístico matemático, con base en la relación de datos históricos, presentes y futuros, y con apoyo en tecnología, experiencia, lógica e intuición, de manera que se logre reducir la incertidumbre en la toma de decisiones.
+            p.text-white.mb-0 En el caso de los hoteles, y en general en las industrias donde se utiliza el Revenue Management, el objetivo es determinar qué demanda (ocupación) se tendrá en un periodo específico, pero no se trata de adivinar, sino de desarrollar un modelo estadístico matemático, con base en la relación de datos históricos, presentes y futuros, y con apoyo en tecnología, experiencia, lógica e intuición, de manera que se logre reducir la incertidumbre en la toma de decisiones.
 
     p(data-aos="fade-right") Un buen pronóstico de la demanda es un aspecto fundamental de la gestión de ingresos, ya que, al usarse el pronóstico como insumo en el proceso de asignación de inventario, se logran aumentos en las tarifas promedio por cliente y una optimización de la demanda de las noches adyacentes a las noches más ocupadas. También es una buena forma de facilitar la negación de reservas de baja calificación, porque se está seguro de que una demanda mejor calificada se materializará más tarde.
     p.mb-5(data-aos="fade-right") Otro beneficio puntual de desarrollar una buena rutina de pronóstico de la demanda en la gestión de ingresos es que las proyecciones de ocupación de habitaciones se pueden utilizar en otros departamentos del hotel, para programar pedidos de suministros y dotación de personal, lo que redundará en un mejor desempeño operacional. Es prudente mencionar que, por avanzadas que sean las técnicas, los pronósticos obtenidos mediante técnicas analíticas tienen porcentajes de desviación o irregularidades que deben ser también tenidas en cuenta. 
@@ -580,7 +578,7 @@
           h4.mx-4 La recomendación para que el pronóstico de demanda sea exitoso es apoyarse, en la medida de lo posible, en sistemas automatizados de pronóstico y/o desarrollar una rutina propia, pero siempre con base en datos históricos probados y con el mayor apego a la realidad que viva el hotel.
           i.fas.fa-quote-right.mb-0(style="font-size: 2em; color: #EA6E42; position: relative; left: calc(100% - 25px);")
 
-    p.mb-5 Al implementar un sistema exitoso de #[em Revenue Management], se pueden contemplar varios componentes o pasos. Estos componentes del ciclo interactúan entre sí y se contemplan separados, para poder analizar puntos de mejora en el proceso, como se muestra a continuación:
+    p.mb-5 Al implementar un sistema exitoso de Revenue Management, se pueden contemplar varios componentes o pasos. Estos componentes del ciclo interactúan entre sí y se contemplan separados, para poder analizar puntos de mejora en el proceso, como se muestra a continuación:
 
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="zoom-in")
@@ -590,31 +588,33 @@
               img(src='@/assets/curso/tema4/img13.svg')
 
           .row.justify-content-center(x="51.2%" y="9.8%" tooltip="Recolección de datos" numero="1")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-8.col-10.mb-4
+              img(src='@/assets/curso/tema4/img14.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Recolección de datos
               p.text-white.mb-0 Recolección sistematizada de datos históricos y actuales. Tendencias del mercado, incluyendo canales y datos de la competencia.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema4/img14.png' alt="Imagen decorativa")
           .row.justify-content-center(x="88.1%" y="31%" tooltip="Analítica de datos" numero="2")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-8.col-10.mb-4
+              img(src='@/assets/curso/tema4/img15.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Analítica de datos
               p.text-white.mb-0 Uso de herramientas para analizar los datos recolectados y transferir información efectiva a la toma de decisiones.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema4/img15.png' alt="Imagen decorativa")
           .row.justify-content-center(x="87.6%" y="70.3%" tooltip="Pronóstico (forecasting)" numero="3")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-8.col-10.mb-4
+              img(src='@/assets/curso/tema4/img16.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Pronóstico (#[em forecasting])
               p.text-white.mb-0 Pronósticos con demanda desrestringida, para la adquisición de solicitudes calificadas en alta demanda y controlar los periodos de baja petición.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema4/img16.png' alt="Imagen decorativa")
           .row.justify-content-center(x="50.6%" y="90.5%" tooltip="Estrategia, precio y distribución" numero="4")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-8.col-10.mb-4
+              img(src='@/assets/curso/tema4/img17.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Estrategia, precio y distribución
               p.text-white.mb-0 Aproximación a los precios dinámicos. Análisis de precios de la competencia. Análisis de canales de distribución.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema4/img17.png' alt="Imagen decorativa")
           .row.justify-content-center(x="12.9%" y="70.3%" tooltip="Implementación" numero="5")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-8.col-10.mb-4
+              img(src='@/assets/curso/tema4/img18.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Implementación
               p.text-white Poner en práctica la estrategia requerirá tiempo y, sobre todo, la planificación. Dos cuestiones son fundamentales:
               ul.lista-ul--color
@@ -624,14 +624,12 @@
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #FFF;")
                   | El entrenamiento del personal.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema4/img18.png' alt="Imagen decorativa")
           .row.justify-content-center(x="12.1%" y="30%" tooltip="Monitorear" numero="6")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-8.col-10.mb-4
+              img(src='@/assets/curso/tema4/img19.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Monitorear
               p.text-white.mb-0 Monitorear el desempeño de los resultados a través de informes periódicos que permitan establecer comparativas es otro de los puntos clave del #[em revenue].
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema4/img19.png' alt="Imagen decorativa")
 
     .row.mb-5(data-aos="fade-right")
       .col-auto
@@ -656,14 +654,14 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 12.
+          h5 Figura 11.
           span Pilares componentes del pronóstico
         .row.justify-content-center.mb-4
           .col-auto.mb-4(data-aos="fade-right")
             .BGS07.py-2.px-5
               .h4.text-white.mb-0 Componentes del pronóstico
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img20.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img20.svg' alt="Figura que menciona los pilares componentes del pronóstico, estos pilares son:<br>Datos actuales, visión, datos futuros y datos históricos.")
 
     p.mb-5(data-aos="fade-right") Y se explican mediante la siguiente tabla:
 
@@ -751,7 +749,7 @@
                   p.mb-0 #[strong RevPar:] #[em Revenue per available room] (ingresos por habitación disponible).
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #EB6F2D;")
-                  p.mb-0 #[strong Segmentación de clientes:]
+                  p.mb-0 #[strong Segmentación de clientes.]
           tr(data-aos="fade-right")
             th(style="background-color: #E6F4B7; font-size: 20px;") Los datos futuros
             th(style="background-color: #E6F4B7; font-size: 20px;") Más que datos futuros, lo que se analiza en este ítem son los factores que puedan afectar esa demanda futura.
@@ -795,15 +793,15 @@
         .BGR05.px-3.py-2
           .h4.mb-0 <i class="fas fa-globe fa-spin"></i> Curvas de reserva
     
-    p.mb-5(data-aos="fade-right") Desde aproximadamente hace 25 años, los investigadores en #[em Revenue Management] de hoteles empezaron a tratar los datos de reserva como curvas de reserva o curvas de umbral (ver figura). Estas curvas son la representación gráfica de las reservas disponibles que un hotel espera en relación con el número de días de antelación a la llegada.
+    p.mb-5(data-aos="fade-right") Desde aproximadamente hace 25 años, los investigadores en Revenue Management de hoteles empezaron a tratar los datos de reserva como curvas de reserva o curvas de umbral (ver figura). Estas curvas son la representación gráfica de las reservas disponibles que un hotel espera en relación con el número de días de antelación a la llegada.
 
     .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 13.
+          h5 Figura 12.
           span Curva de reservas
         figure(data-aos="zoom-in")
-          img.mb-4(src='@/assets/curso/tema4/img22.svg' alt="Imagen decorativa")
+          img.mb-4(src='@/assets/curso/tema4/img22.svg' alt="Figura que muestra de manera gráfica el comportamiento en curva que se genera con las reservas determinando el precio y la ocupación.")
           figcaption Nota. <span style="font-weight: 400">Tomada de </span><u><a style="color: #111e61" href="https://www.smarttravel.news/wp-content/uploads/2019/10/Grafico-1-Curva-Demanda-B.png" target="_blank">smarttravel.news</a></u>
 
     p(data-aos="fade-right") En la industria hotelera, el método de reservas anticipadas, o pick up de reservas, es uno de los pronósticos más precisos del rendimiento futuro y es importante porque, al conocer el porcentaje de reservas en una ventana de tiempo antes de la llegada, se podrán determinar las acciones pertinentes en manejo de precios, inventarios y restricciones. (AHLA - American Hotel & Lodging Association, 2006).
@@ -846,10 +844,10 @@
     p.mb-5(data-aos="fade-right") Un ejemplo de calendario de demanda se ofrece a continuación:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-      h5 Figura 14.
+      h5 Figura 13.
       span Calendario de demanda
     figure.mb-5(data-aos="zoom-in")
-      img(src='@/assets/curso/tema4/img23.svg' alt="Imagen decorativa")
+      img(src='@/assets/curso/tema4/img23.svg' alt="Figura de un formato de registro de calendario de demanda de hotel.")
 
     ul.lista-ul--color.lista-ul--separador.ms-5.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -876,7 +874,33 @@
 export default {
   name: 'Tema4',
   data: () => ({
-    // variables de vue
+    datosSlyder: [
+      {
+        texto:
+          'Esta disciplina tuvo sus inicios en la década del 70, de la mano del analista Kenneth Linwood, quien, como parte de su trabajo para la aerolínea British Airways, presentó el informe “<em>Forecasting and Control of Passenger bookings</em>”, en español, pronóstico y control de reservas de pasajeros.',
+        imagen: require('@/assets/curso/tema4/img24.svg'),
+      },
+      {
+        texto:
+          'Este informe exponía que, cuando existan dos precios para un mismo producto, deberá venderse al precio bajo hasta que exista la probabilidad de venderlo al precio alto, superando la relación entre estos precios (alto y bajo). A esto se le conoce como la regla Linwood, la cual se convertiría  posteriormente en la base de los algoritmos de optimización.',
+        imagen: require('@/assets/curso/tema4/img25.svg'),
+      },
+      {
+        texto:
+          'Posteriormente, un hecho político sucedido en Estados Unidos en 1978, el “Airline Deregulation Act”, consistente con la ley federal que desreguló la industria de las aerolíneas, dio como consecuencia la liberación de tarifas aéreas y la entrada de nuevos competidores.',
+        imagen: require('@/assets/curso/tema4/img26.jpg'),
+      },
+      {
+        texto:
+          'En 1985, la aerolínea American Airlines lanza la tarifa “<em>Ultimate Super Savers</em>”, que ofrecía descuentos hasta del 74 % en condiciones de compra más restrictivas. Es así como esta empresa desarrolló el sistema DINAMO (<em>Dynamic Inventory and Maintenance Optimizer</em>), un sistema basado en la regla Linwood, que calculaba la probabilidad de vender el último asiento a la tarifa <em>full</em>, y con esa base calculaba cuántos asientos ofrecer a la tarifa USS.',
+        imagen: require('@/assets/curso/tema4/img27.jpg'),
+      },
+      {
+        texto:
+          'El inusitado éxito de esta fórmula de “<em>yield management</em>” se permeó a otras industrias y es así como Robert Crandall, CEO de American Airlines, comparte su éxito con su colega Bill Marriott, de Marriott Internacional, quien lo aplica magistralmente en la hotelería y desarrolla un sistema llamado DFS (Demand Forecast System), que proveía pronósticos de demanda para las cerca de 160.000 habitaciones del Marriott International.',
+        imagen: require('@/assets/curso/tema4/img28.svg'),
+      },
+    ],
   }),
   mounted() {
     this.$nextTick(() => {

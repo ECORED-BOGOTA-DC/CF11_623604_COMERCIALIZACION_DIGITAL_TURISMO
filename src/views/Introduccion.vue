@@ -13,21 +13,21 @@
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/intro/img01.svg' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
-        p Le damos la bienvenida al componente formativo “#[strong Venta de productos y servicios digitales]”, último contenido del programa de Comercialización digital de servicios turísticos. Recuerde que un producto digital es un activo intangible o un elemento multimedia que puede venderse y distribuirse online una y otra vez, sin necesidad de renovar el inventario.
+        p Le damos la bienvenida al componente formativo “#[strong Venta de productos y servicios digitales]”, en el cual se explorará el concepto de producto digital, que es un activo intangible o un elemento multimedia que puede venderse y distribuirse #[em online] una y otra vez, sin necesidad de renovar el inventario.
         .BG01.p-4
           p.mb-0 Internet es un conjunto de redes de comunicación interconectadas a nivel mundial, en constante evolución y de uso relativamente sencillo para acceder a contenidos, servicios y productos. En ese sentido, la red mundial de ordenadores, o World Wide Web, se ha convertido en un canal de ventas que aumenta su relevancia día a día.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.order-lg-1.order-2
-        p Cuando se hace referencia a la venta online, se está contextualizando el comercio electrónico. Este módulo pretende, por tanto, facilitar a los aprendices los conocimientos teóricos y estratégicos del entorno digital, entendiendo las principales posibilidades de implementación, las implicaciones de las funciones logísticas y su incidencia en la satisfacción del cliente.
-        p.mb-5 La venta online tiene muchos beneficios:
+        p Cuando se hace referencia a la venta #[em online], se está contextualizando el comercio electrónico. Este módulo pretende, por tanto, facilitar a los aprendices los conocimientos teóricos y estratégicos del entorno digital, entendiendo las principales posibilidades de implementación, las implicaciones de las funciones logísticas y su incidencia en la satisfacción del cliente.
+        p.mb-5 La venta #[em online] tiene muchos beneficios:
         ul.lista-ul--color
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-star(style="color: #2B95F9;")
             | Bajos costos.
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-star(style="color: #2B95F9;")
-            | Márgenes de ganancia relativamente altos
+            | Márgenes de ganancia relativamente altos.
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-star(style="color: #2B95F9;")
             | Potencial de automatización.
@@ -36,7 +36,7 @@
             | Flexibilidad en la oferta de productos.
         p.mb-0 Los productos digitales presentan muchas ventajas que los hacen singularmente atractivos para su venta:
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/intro/img02.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/intro/img02.svg' alt="Imagen que ilustra de manera gráfica las relaciones que se generan a través de las ventas online como es: la intercomunicación, el acceso fácil desde cualquier lugar para la venta de productos y servicios.")
 
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -86,15 +86,15 @@
 
     p.mb-5 La venta de productos digitales también enfrenta desafíos:
 
-    ImagenInfografica.color-acento-botones.mb-5(data-aos="zoom-in")
+    ImagenInfografica.color-acento-botones.medium.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/intro/img06.svg')
-      .tarjeta.color-acento-botones.p-3(x="47%" y="15%" numero="1")
+      .tarjeta.color-acento-botones.p-3(x="46.7%" y="14.5%" numero="1")
         p.mb-0 Se compite con contenidos gratuitos.
-      .tarjeta.color-acento-botones.p-3(x="35%" y="80%" numero="2")
+      .tarjeta.color-acento-botones.p-3(x="34.7%" y="81.3%" numero="2")
         p.mb-0 Exposición a la piratería y el robo de información.
-      .tarjeta.color-acento-botones.p-3(x="85%" y="40%" numero="3")
+      .tarjeta.color-acento-botones.p-3(x="84.2%" y="40.5%" numero="3")
         p.mb-0 Existen restricciones en cuanto al método de venta.
     
     p Conocer cómo se debe interactuar con los usuarios en la venta de productos y servicios #[em online] es crucial para poder desarrollar e implementar cambios y estrategias que ayuden a alcanzar óptimos resultados.

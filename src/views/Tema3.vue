@@ -151,7 +151,7 @@
           .col-lg-7.order-lg-1.order-2
             .h4 Consideración
             p Una vez hemos logrado atraer al usuario con nuestra primera estrategia de #[em marketing online], es el momento de que Marcela se fije en nuestras instalaciones, servicios, comentarios. Allí descubrirá si nuestra oferta de valor es lo que realmente necesita.
-            p En el momento, el lead, que ya conoce su problema, empieza a buscar posibles soluciones; es aquí donde hacemos que nos valore entre las opciones. 
+            p En el momento, el #[em lead], que ya conoce su problema, empieza a buscar posibles soluciones; es aquí donde hacemos que nos valore entre las opciones. 
             p.mb-0 Un video o recomendación de un experto o de otros clientes suele ser efectivo en esta fase.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img09.png' alt="Imagen decorativa")
@@ -159,7 +159,7 @@
           .col-lg-7.order-lg-1.order-2
             .h4 Decisión
             p El prospecto analiza las posibles opciones y decide seleccionar el alojamiento que mejor solucione su problema. 
-            p Es el momento de reservar, último paso, pero no por ello menos importante. El hecho de que nos haya elegido no significa que vaya a terminar su reserva. En este paso, es importante que la plataforma que utilicemos (motor de reserva) sea 100 % usable e intuitiva, así como implementar estrategias upselling y cross selling.
+            p Es el momento de reservar, último paso, pero no por ello menos importante. El hecho de que nos haya elegido no significa que vaya a terminar su reserva. En este paso, es importante que la plataforma que utilicemos (motor de reserva) sea 100 % usable e intuitiva, así como implementar estrategias #[em upselling] y cross #[em selling].
             p.mb-0 ¿Alguna vez te ha pasado que has querido reservar en la página de un hotel y algo ha fallado o no sabías cómo continuar? Esta fase se trata de asegurarte de que el proceso de venta se completa y que Marcela hace la reserva en tu sitio web y no abandona la operación sin finalizar o recurrir a alguna OTA.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img10.png' alt="Imagen decorativa")

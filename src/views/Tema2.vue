@@ -85,7 +85,7 @@
 
     p(data-aos="fade-right") En ambos casos, esto se consigue por dos características distintivas del entorno digital, como son: la interconectividad (todo está interrelacionado) y la interactividad (es posible mantener una comunicación real en doble vía). 
     p(data-aos="fade-right") Dicho de otra forma, con Internet se dispone de la posibilidad de crear productos y servicios acordes con lo que el consumidor quiere, y modificarlos cuando lo pida, siempre y cuando sus propuestas sean viables económica y técnicamente. Esto nos lleva como empresa a la necesidad de aclarar el posicionamiento y la diferenciación que se quiere alcanzar. 
-    p.mb-5(data-aos="fade-right") Una vez lograda esta relación, se procede a crear la estrategia de mercadeo digital, que logre comunicar adecuadamente la oferta que se pretende sea única. A este concepto en mercadeo se le conoce como #[em Unique Selling Proposition], se relaciona directamente con el producto o el servicio y la comunicación. Pretende que una idea única y motivadora o una promesa en particular sobre el producto/servicio quede registrada en la mente del consumidor.
+    p.mb-5(data-aos="fade-right") Una vez lograda esta relación, se procede a crear la estrategia de mercadeo digital, que logre comunicar adecuadamente la oferta que se pretende sea única. A este concepto en mercadeo se le conoce como Unique Selling Proposition, se relaciona directamente con el producto o el servicio y la comunicación. Pretende que una idea única y motivadora o una promesa en particular sobre el producto/servicio quede registrada en la mente del consumidor.
 
     .BGS09.p-4.mb-4(data-aos="fade-right")
       p.mb-0 Desde el punto de vista digital, al ser Internet un canal directo, pero a la vez masivo, donde el consumidor está sometido a una gran cantidad de impactos publicitarios, se hace imperativo que el producto/servicio “hable por sí solo” y logre transmitirse su atributo principal de forma clara y precisa.
@@ -135,7 +135,7 @@
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/tema2/img03.svg')
+              img(src='@/assets/curso/tema2/img03.svg', alt="Imagen que describe tres áreas de análisis en un diseño de estrategia digital con su definición y características, la cuales se indican a continuación de la imagen.")
 
           .tarjeta.BG10.p-4(x="23%" y="78%" numero="1")
             ul.lista-ul--color
@@ -170,7 +170,7 @@
                 | El tipo de acceso al producto (abierto, restringido, gratuito, remunerado).
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
-                p.mb-0 La forma en que se va a acceder al producto (enlaces desde otras páginas web, en el mismo #[em website] o a través de una app complementaria).
+                p.mb-0 La forma en que se va a acceder al producto (enlaces desde otras páginas web, en el mismo #[em website] o a través de una #[em app] complementaria).
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
                 | Si la oferta se diversifica en una estrategia multicanal.
@@ -183,7 +183,7 @@
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
                 | Otras utilidades que puede ofrecer y que sean susceptibles de apreciarse como un valor añadido.
-          .tarjeta.BG10.p-4(x="97%" y="78%" numero="3")
+          .tarjeta.BG10.p-4(x="60%" y="97%" numero="4")
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
@@ -194,7 +194,7 @@
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
                 | ¿Utilizará presentaciones de producto con elementos multimedia? (Sonidos, video, elementos gráficos de apoyo, realidad virtual).
-          .tarjeta.BG10.p-4(x="60%" y="97%" numero="4")
+          .tarjeta.BG10.p-4(x="97%" y="78%" numero="3")
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
@@ -235,7 +235,7 @@
             .h4.text-center.mb-2 Creación de nuevos
             .h4.text-center.mb-0 productos en Internet
           .p-4
-            p.mb-0 En algunas ocasiones, a las empresas se les presenta la oportunidad de realizar cambios significativos en sus carteras de productos, sirviéndose para ello de Internet. Estos cambios se plasman en la creación de productos digitales que reúnen las características propias y se distribuyen a través de la web. En otros casos, las empresas crean productos digitales que son totalmente diferentes de la oferta existente. Mientras que otras veces, se desarrolla una versión digital del producto original. En el medio turístico, un ejemplo bien conocido son los mapas creados por Google, que, en sí, son la versión digital de un producto genérico, pero que, a su vez, sirven como base para el desarrollo de guías turísticas interactivas, como #[em Lonely Planet] o Michelin, que se pueden consumir mediante un App o un #[em Ebook].
+            p.mb-0 En algunas ocasiones, a las empresas se les presenta la oportunidad de realizar cambios significativos en sus carteras de productos, sirviéndose para ello de Internet. Estos cambios se plasman en la creación de productos digitales que reúnen las características propias y se distribuyen a través de la web. En otros casos, las empresas crean productos digitales que son totalmente diferentes de la oferta existente. Mientras que otras veces, se desarrolla una versión digital del producto original. En el medio turístico, un ejemplo bien conocido son los mapas creados por Google, que, en sí, son la versión digital de un producto genérico, pero que, a su vez, sirven como base para el desarrollo de guías turísticas interactivas, como Lonely Planet o Michelin, que se pueden consumir mediante un #[em App] o un #[em Ebook].
 
       .col-xl-5.col-lg-6.col-sm-10(data-aos="fade-left")
         .BGU11.h-100
@@ -265,7 +265,7 @@
         .row.justify-content-center.align-items-center.px-2
           .col-lg-7.order-lg-1.order-2
             .h4 Creación de una nueva marca
-            p.mb-0 Cuando la marca de la empresa tiene connotaciones inapropiadas para Internet o cuando se desea llegar a segmentos distintos de aquellos a los que se orienta en los entornos físicos. La multinacional #[em Procter & Gamble], por ejemplo, está detrás de #[em Being Girl], comunidad para niñas adolescentes para responder a las cuestiones “difíciles” que supone crecer. Esta variable no presume un riesgo para a marca tradicional, requiere una fuerte inversión en programas de comunicación de #[em marketing] para alcanzar niveles de notoriedad apropiados.
+            p.mb-0 Cuando la marca de la empresa tiene connotaciones inapropiadas para Internet o cuando se desea llegar a segmentos distintos de aquellos a los que se orienta en los entornos físicos. La multinacional Procter & Gamble, por ejemplo, está detrás de Be Girl, comunidad para niñas adolescentes para responder a las cuestiones “difíciles” que supone crecer. Esta variable no presume un riesgo para a marca tradicional, requiere una fuerte inversión en programas de comunicación de #[em marketing] para alcanzar niveles de notoriedad apropiados.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img05.png' alt="Imagen decorativa")
         .row.justify-content-center.align-items-center.px-2
@@ -282,8 +282,8 @@
             img(src='@/assets/curso/tema2/img07.png' alt="Imagen decorativa")
         .row.justify-content-center.align-items-center.px-2
           .col-lg-7.order-lg-1.order-2
-            .h4 Variante de la marca_ejemplo
-            p.mb-0 En el medio hotelero, se conoce el caso de la cadena Hoteles Barceló, que, además de su sitio oficial, lanzó Viajes Barceló bajo la marca “#[em B the travel Brand]”, una agencia de viajes virtual que se sirve de la reputación de marca para comercializar productos propios, complementarios e incluso sustitutivos. 
+            .h4 Variante de la marca ejemplo
+            p.mb-0 En el medio hotelero, se conoce el caso de la cadena Hoteles Barceló, que, además de su sitio oficial, lanzó Viajes Barceló bajo la marca “B the travel Brand”, una agencia de viajes virtual que se sirve de la reputación de marca para comercializar productos propios, complementarios e incluso sustitutivos. 
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img08.png' alt="Imagen decorativa")
 
@@ -314,7 +314,7 @@
           h5 Figura 6.
           span Condiciones de los precios #[em online]
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img10.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema2/img10.svg' alt="Figura que menciona las condiciones de los precios online a través de un esquema o mapa conceptual que muestra las condiciones que confieren precio en una estrategia y que se explican posterior a la imagen.")
 
     .row.mb-5(data-aos="fade-right")
       .col-auto
@@ -408,10 +408,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Tabla 3.
+          h5 Tabla 2.
           span Estrategias de precios normalmente utilizados en Internet
         .tabla-a.color-acento-contenido
-          table(alt="Texto alternativo tabla")
+          table(alt="Tabla que muestra las estrategias de precios normalmente utilizados en Internet.")
             thead(style="border-color: transparent")
               tr(data-aos="fade-right")
                 th(style="background-color: #FFB339; width: 25%; font-size: 18px;") Estrategia
@@ -425,7 +425,7 @@
                 td(style="background-color: #FFF;") Cuando se accede a un mercado, se tiende a hacerlo con precios alineados con la competencia, e incluso más bajos, siendo esta también una característica común en los casos en que se ha detectado una oportunidad en la que no hay competidores significativos. Esta estrategia agresiva pretende atacar directamente a competidores, y también es la aproximación considerada más válida cuando la oferta se dirige a segmentos especialmente sensibles al precio.
               tr(data-aos="fade-right")
                 th(style="background-color: #FFF4E2;") Estrategia de personalización de precios
-                td(style="background-color: #FFF4E2;") Internet permite que se observen los comportamientos de compra y demanda dentro del #[em website]. Con una plataforma adecuada de #[em marketing One to One], se pueden diseñar planes específicos por grupos de clientes, al igual que promociones especiales, promociones cruzadas, o descuentos, además de ofrecer valores muy apreciados por los consumidores (información personalizada, alertas de posibles ofertas o nuevos productos, mejor estructuración de la oferta de acuerdo con preferencias). La personalización siempre es recomendable, en mayor o en menor medida, aunque no es la única solución a la hora de diseñar una estrategia de precios imbatibles; el consumidor puede acceder a servicios específicos que “buscan y comparan” productos, ofertas y establecimientos de forma automática. Cuando no hay control absoluto en la personalización, la publicidad programática aprovecha la estrategia. La tecnología detecta el público que navega en la red con inquietudes concretas e impacta con mensajes de oportunidad única. Basándose en el Big Data, el anunciante compra audiencias y no espacios, como en la publicidad tradicional, segmentando, ofreciendo y llegando a las personas indicadas.
+                td(style="background-color: #FFF4E2;") Internet permite que se observen los comportamientos de compra y demanda dentro del #[em website]. Con una plataforma adecuada de #[em marketing one-to-one], se pueden diseñar planes específicos por grupos de clientes, al igual que promociones especiales, promociones cruzadas, o descuentos, además de ofrecer valores muy apreciados por los consumidores (información personalizada, alertas de posibles ofertas o nuevos productos, mejor estructuración de la oferta de acuerdo con preferencias). La personalización siempre es recomendable, en mayor o en menor medida, aunque no es la única solución a la hora de diseñar una estrategia de precios imbatibles; el consumidor puede acceder a servicios específicos que “buscan y comparan” productos, ofertas y establecimientos de forma automática. Cuando no hay control absoluto en la personalización, la publicidad programática aprovecha la estrategia. La tecnología detecta el público que navega en la red con inquietudes concretas e impacta con mensajes de oportunidad única. Basándose en el #[em big data], el anunciante compra audiencias y no espacios, como en la publicidad tradicional, segmentando, ofreciendo y llegando a las personas indicadas.
               tr(data-aos="fade-right")
                 th(style="background-color: #FFF;") Estrategia de precios descremados
                 td(style="background-color: #FFF;") Cuando se ofrece un producto o servicio innovador o exclusivo, se tiende a elegir la alternativa estratégica de “precios más altos”, pretendiendo captar a los primeros interesados, segmento dispuesto a probar el producto, que no son especialmente sensibles al precio. Posteriormente, se van reduciendo paulatinamente los precios intentando captar a más segmentos, aunque usualmente estas reducciones suelen estar motivadas por las estrategias de la competencia.

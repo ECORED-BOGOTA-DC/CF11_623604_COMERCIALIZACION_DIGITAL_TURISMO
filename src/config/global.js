@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Venta de productos y servicios digitales',
     descripcionCurso:
-      'Las ventas en Internet tienen más relevancia, cada día las personas rompen paradigmas y, con los nuevos servicios de Internet y una mayor cobertura de datos, dan paso a la comercialización por este medio. El mercado turístico es una muestra de cómo la web puede ser una gran aliada para mejorar las ventas y no quedar rezagados.',
+      'Hoy en día las ventas en internet tienen más relevancia, cada día las personas rompen más paradigmas, cada día las personas rompen paradigmas y, los nuevos servicios de Internet y una mayor cobertura de datos, dan paso a la comercialización por este medio. El mercado turístico es una muestra de cómo la web puede ser una gran aliada para mejorar las ventas y no quedar rezagados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -137,7 +137,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: '<em>Revenue Management</em>',
+        titulo: 'Revenue management',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -190,6 +190,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/623604_CF11_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -246,7 +251,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em>Buyer </em>',
+      termino: '<em>Buyer persona</em>',
       significado:
         'es la representación ficticia del cliente ideal, basada en datos reales sobre el comportamiento y las características demográficas de los clientes, así como en una creación de sus historias personales, motivaciones, objetivos, retos y preocupaciones.',
     },
@@ -314,7 +319,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -333,9 +338,10 @@ export default {
             'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
-          nombre: 'Carolina Coca Salazar',
+          nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesora Metodológica ',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -349,10 +355,10 @@ export default {
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Asesor metodológico',
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional-2023',
           centro:
-            'Centro de gestión de Mercados, Logística y Tecnologías de la Información',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -363,19 +369,19 @@ export default {
           nombre: 'Adriana Marcela Suarez Eljure',
           cargo: 'Diseñador web',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Nombre_responsable',
           cargo: 'Animador y Producción audiovisual',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -386,19 +392,20 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -409,25 +416,4 @@ export default {
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
 }

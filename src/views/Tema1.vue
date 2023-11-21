@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.jpg')})`}" data-aos="fade-right" alt="Imagen decorativa"
       )
       .bloque-texto-g__texto.py-md-5.py-4.px-4(data-aos="fade-left")
-        p.mb-0 Exhibir en la red productos, marcas, servicios, etc., debe tener como objetivo “convertir al navegante en cliente”. Está demostrado que la mayor parte de los usuarios siempre dejan para más adelante su decisión de comprar, a pesar de estar convencidos y persuadidos para hacerlo. Siempre encuentran una razón, como ver si pueden obtener mejores precios en otro lugar o esperar a contrastar su decisión con otra persona de confianza (amigos, compañeros o familiares); o esperar a ver y tocar el producto en una tienda física.
+        p.mb-0 Exhibir en la red productos, marcas, servicios, etc., debe tener como objetivo “convertir al navegante en cliente”. Está demostrado que la mayor parte de los usuarios siempre dejan para después su decisión de comprar, a pesar de estar convencidos y persuadidos para hacerlo. Siempre encuentran una razón, como ver si pueden obtener mejores precios en otro lugar o esperar a contrastar su decisión con otra persona de confianza (amigos, compañeros o familiares); o esperar a ver y tocar el producto en una tienda física.
 
     p.mb-5 Pero, en esencia, la #[strong venta #[em online]] consiste en lograr que los potenciales clientes se conviertan en clientes y compren. Para lograr esto, en primer lugar, hay que reflexionar sobre quiénes son sus clientes potenciales y cuáles son las motivaciones por las que se pueden interesar en sus productos o servicios o sobre cuáles son las razones o motivos que esos usuarios podrían tener para no tomar una decisión en el instante en que han entrado en su sitio web.
 
@@ -64,7 +64,7 @@
           h5 Figura 1.
           span Venta a través de comercio electrónico entre enero y agosto de 2019 y 2020
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img06.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img06.svg' alt="Figura que expone de manera gráfica el comportamiento de las ventas a través de comercio electrónico en el año 2019 y 2020.")
           figcaption Nota. <span style="font-weight: 400">Adaptado de </span><u><a style="color: #111e61" href="https://www.ccce.org.co/wp-content/uploads/2020/10/informe-comportamiento-y-perspectiva-ecommerce-2020-2021.pdf" target="_blank">Informe Comportamiento y Perspectiva #[em eCommerce] en Colombia durante 2020 y perspectivas para 2021</a></u>
 
     .row.justify-content-center.mb-5
@@ -74,13 +74,13 @@
           h4.mx-4 Adicionalmente a los productos efectivamente adquiridos por Internet, debemos sumar que al menos un 75 % de las personas busca información y compara precios mayormente desde teléfonos inteligentes, lo que aumenta el tráfico y las posibilidades de crecimiento de este tipo de transacciones.
           i.fas.fa-quote-right.mb-0(style="font-size: 2em; color: #EA6E42; position: relative; left: calc(100% - 25px);")
 
-    p.mb-5(data-aos="fade-right") De acuerdo con el informe “Comportamiento y Perspectiva del comercio electrónico”, publicado por la Cámara Colombiana de Comercio Electrónico, en 2020, se identificó:
+    p.mb-5(data-aos="fade-right") De acuerdo con el informe “Comportamiento del #[em ecommerce] en Colombia durante 2020 y perspectivas para 2021”, publicado por la Cámara Colombiana de Comercio Electrónico, en 2020, se identificó:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-acento-botones.mb-5
           .tarjeta.BG03.p-4(titulo="Crecimiento")
-            p.mb-0 El #[em eCommerce] en Colombia creció, en promedio, el 2 % mensual, durante el periodo de estudio.
+            p.mb-0 El #[em eCommerce] en Colombia creció, en promedio, un 2 % mensual, durante el periodo de estudio.
           .tarjeta.BG03.p-4(titulo="Canal electrónico")
             p.mb-0 El canal electrónico se ha ido convirtiendo en uno de los canales fundamentales para las empresas con intención de vender al consumidor final directamente (B2C).
           .tarjeta.BG03.p-4(titulo="Presencia <em>online</em>")
@@ -99,7 +99,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white.mb-1 Informe Comportamiento y Perspectiva #[em eCommerce] en Colombia durante 2020 y perspectivas para 2021
+                  h4.text-white.mb-1 Informe: comportamiento del #[em eCommerce] en Colombia durante 2020 y perspectivas para 2021
                   p.text-white.mb-0 Este documento hace referencia al comportamiento de ventas y transacciones de comercio electrónico en el país.
                 .col-sm-auto
                   a.boton.color-acento-contenido(href="https://www.ccce.org.co/wp-content/uploads/2020/10/informe-comportamiento-y-perspectiva-ecommerce-2020-2021.pdf" target="_blank")
@@ -123,23 +123,23 @@
           .row.justify-content-center(x="10%" y="10%" tooltip="Desarrollo propio" numero="1")
             .col-lg-7.order-lg-1.order-2
               .h5.text-white.mb-3 Desarrollo propio
-              p.text-white.mb-0 Contratando un equipo de desarrolladores para realizar el proyecto desde cero. Las ventajas es que se cuenta con una personalización total de la herramienta, pero depende de un equipo de desarrolladores y los costes de desarrollo serán bastante altos.
+              p.text-white.mb-0 Contratando un equipo de desarrolladores para realizar el proyecto desde cero. La ventaja es que se cuenta con una personalización total de la herramienta, pero depende de un equipo de desarrolladores y los costes de desarrollo serán bastante altos.
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img09.png' alt="Imagen decorativa")
-          .row.justify-content-center(x="24%" y="80%" tooltip="CMS de <em>software</em> libre" numero="2")
+          .row.justify-content-center(x="2 " y="80%" tooltip="CMS de <em>software</em> libre" numero="2")
             .col-lg-7.order-lg-1.order-2
               .h5.text-white.mb-3 CMS de #[em software] libre
-              p.text-white.mb-0 Basados en #[em software] libre y gratuito, que normalmente (es complejo) es desarrollado por equipos de desarrolladores. 
+              p.text-white.mb-0 Basados en #[em software] libre y gratuito.
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img10.png' alt="Imagen decorativa")
-          .row.justify-content-center(x="84%" y="34%" tooltip="Plataformas de comercio electrónico" numero="3")
+          .row.justify-content-center(x="8 " y="3 " tooltip="Plataformas de comercio electrónico" numero="3")
             .col-lg-7.order-lg-1.order-2
               .h5.text-white.mb-3 Plataformas de comercio electrónico
               p.text-white.mb-0 Estas son plataformas que alojan y personalizan tiendas #[em online], integrando servicios de #[em hosting], pago, logística y de servicio, a cambio de una tarifa fija o un porcentaje de ventas. Son plataformas de fácil funcionamiento, pero regularmente limitadas en procesamiento de datos y personalización, pero son una buena forma de ingresar al mundo del comercio electrónico.
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img11.png' alt="Imagen decorativa")
 
-    p.mb-5(data-aos="fade-right") En cuanto a las plataformas de comercio electrónico más utilizadas, al tratarse de #[em Open Source], suelen ser Magento, Prestashop y Woocommerce. Aunque estas plataformas son de #[em software] libre, la implementación, las integraciones y las herramientas adicionales pueden tener costos y es importante seleccionar tecnologías para las cuales se pueda encontrar, de una forma fácil, profesionales que dominen las mismas. Entre las más utilizadas actualmente, están:
+    p.mb-5(data-aos="fade-right") En cuanto a las plataformas de comercio electrónico de código abierto (#[em open source]), las más utilizadas suelen ser Magento, Prestashop y Woocommerce. Aunque estas plataformas son de #[em software] libre, la implementación, las integraciones y las herramientas adicionales pueden tener costos y es importante seleccionar tecnologías para las cuales se pueda encontrar, de una forma fácil, profesionales que dominen las mismas. Entre las más utilizadas actualmente, están:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       h5 Figura 2.
@@ -191,7 +191,7 @@
 
 
     p(data-aos="fade-right") Es también de suma importancia, considerar los costos de alojamiento que se requiere en cada uno de los casos, dependiendo de la herramienta escogida para desarrollar el proyecto. Esto influirá directamente en el desempeño del sitio.
-    p.mb-5(data-aos="fade-right") Desde el lado de las plataformas de comercio electrónico, se encuentran #[em Shopify], y a nivel local, #[em Rocketfy, Dropi, Komercia, Effi], entre otras. Todas estas herramientas mencionadas están enfocadas en tiendas que ofertan productos físicos y también cuentan con la modalidad de #[em dropshipping].
+    p.mb-5(data-aos="fade-right") En cuanto a las plataformas de comercio electrónico, se encuentran Shopify, y a nivel local, Rocketfy, Dropi, Komercia, Effi, entre otras. Todas estas herramientas están enfocadas en tiendas que ofertan productos físicos y también cuentan con la modalidad de #[em dropshipping].
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -199,7 +199,7 @@
           h5 Tabla 1.
           span Tiendas de venta #[em online] y productos físicos
         .tabla-a.color-acento-contenido.h-100
-          table(alt="Texto alternativo tabla")
+          table(alt="Tabla que muestra las tiendas de venta online y productos físicos.")
             thead(style="border-color: transparent")
               tr(data-aos="fade-right")
                 th(style="background-color: #EB6F2D; width: 25%;") Herramienta
@@ -228,7 +228,7 @@
                     )
                       img(src='@/assets/curso/tema1/img16.png', alt='Imagen decorativa')
                       .indicador--click(v-if="mostrarIndicador")
-                td(style="background-color: #FFF;") Es una plataforma colombiana, se le conoce como el #[em Shopify] colombiano, ya que utiliza un modelo de negocio similar al de la empresa canadiense.
+                td(style="background-color: #FFF;") Es una plataforma colombiana, se le conoce como el Shopify colombiano, ya que utiliza un modelo de negocio similar al de la empresa canadiense.
               tr(data-aos="fade-right")
                 td(style="background-color: #F6F6F6;")
                   .px-lg-4
@@ -240,7 +240,7 @@
                     )
                       img(src='@/assets/curso/tema1/img17.png', alt='Imagen decorativa')
                       .indicador--click(v-if="mostrarIndicador")
-                td(style="background-color: #F6F6F6;") #[em Dropi] es una plataforma colombiana, que se especializa en el modelo #[em dropshipping].
+                td(style="background-color: #F6F6F6;") Dropi es una plataforma colombiana, que se especializa en el modelo #[em dropshipping].
               tr(data-aos="fade-right")
                 td(style="background-color: #FFF;")
                   .px-lg-4
@@ -264,7 +264,7 @@
                     )
                       img(src='@/assets/curso/tema1/img19.png', alt='Imagen decorativa')
                       .indicador--click(v-if="mostrarIndicador")
-                td(style="background-color: #F6F6F6;") #[em Efficommerce] es un #[em hub] logístico administrativo que provee herramientas de comercio electrónico.
+                td(style="background-color: #F6F6F6;") Efficommerce es un #[em hub] logístico administrativo que provee herramientas de comercio electrónico.
 
     p.mb-5(data-aos="fade-right") Respecto de herramientas especializadas en el campo turístico, las hay para: hoteles, agencias de viaje en línea, ventas de comida a domicilio, por mencionar algunas. La verdad es que el comercio electrónico ha permeado toda nuestra vida y casi cualquier producto o servicio ya tiene herramientas tecnológicas para ser comerciado en línea. Algunas de estas herramientas se explican a continuación.
 
@@ -272,7 +272,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Herramientas tecnológicas de comercio electrónico para el sector turístico
     
-    p.mb-5(data-aos="fade-right") Como se ha evidenciado, el sector turístico, por su condición de venta de experiencias “intangibles”, requiere un mayor esfuerzo que otros sectores al implantar herramientas tecnológicas. Es por esta razón que estas se especializan de acuerdo con las necesidades del sector. Vea algunas de ellas.
+    p.mb-5(data-aos="fade-right") Como se ha evidenciado, el sector turístico, por su condición de venta de experiencias “intangibles”, requiere un mayor esfuerzo que otros sectores al implementar herramientas tecnológicas. Es por esta razón que estas se especializan de acuerdo con las necesidades del sector. A continuación algunas de ellas.
     
     .row.mb-5(data-aos="fade-right")
       .col-auto
@@ -288,7 +288,7 @@
           .col-5
             img(src='@/assets/curso/tema1/img20.svg', alt='Imagen decorativa')
         h4.text-center Tener un tiempo de carga rápido
-        p.text-center.mb-0 Se recomienda que este sea inferior a 4 segundos. Estos tiempos se pueden medir con aplicativos como #[em Google PageSpeed Insights o Gmetrix].
+        p.text-center.mb-0 Se recomienda que este sea inferior a 4 segundos. Estos tiempos se pueden medir con aplicativos como Google PageSpeed Insights o Gmetrix.
       .tarjeta--boton.color-primario.h-100.p-4
         .row.justify-content-center.mb-3
           .col-5
@@ -324,7 +324,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img21.jpg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img21.jpg' alt="Imagen que muestra una reserva a través de la página web de una habitación de un hotel.")
     
     p.mb-5(data-aos="fade-right") Estas piezas de #[em software] se integran a la página web, dentro de un #[em framework], y lucen como parte de la página, logrando gestionar el inventario del hotel o de la agencia de viajes de forma directa. Las características más relevantes de un #[em software] de reservaciones son:
 
@@ -332,7 +332,7 @@
       table(alt="Texto alternativo tabla")
         thead(style="border-color: transparent")
           tr(data-aos="fade-right")
-            th(style="background-color: #FFB339;") Característica
+            th(style="background-color: #FFB339;") Características
         tbody
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Acceso para poder adherirse vía dispositivo móvil.
@@ -341,7 +341,7 @@
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Avisos de últimas habitaciones disponibles.
           tr(data-aos="fade-right")
-            td(style="background-color: #FFF;") Certificados de seguridad de la información: Ejemplo: #[em thatwe, Pci].
+            td(style="background-color: #FFF;") Certificados de seguridad de la información: ejemplo: #[em thawte], PCI.
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Combinación de tarifas: extraer el mejor precio día a día y calcularlo para ofrecer como la mejor tarifa disponible en el precio total.
           tr(data-aos="fade-right")
@@ -357,17 +357,17 @@
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") En caso de ofertas, mostrar el precio de antes de la oferta tachado, mostrar el porcentaje de descuento.
           tr(data-aos="fade-right")
-            td(style="background-color: #FFF;") Envío de e-mail & SMS, previo a la estancia, en el que se ofrece #[em up-selling].
+            td(style="background-color: #FFF;") Envío de #[em e-mail] & SMS, previo a la estancia, en el que se ofrece #[em up-selling].
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Guardar datos de pasajeros para agilizar proceso de reserva.
           tr(data-aos="fade-right")
-            td(style="background-color: #FFF;") Integración con #[em Channel Manager] en doble vía.
+            td(style="background-color: #FFF;") Integración con Channel Manager en doble vía.
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Integración con PMS en doble vía: carga y descuenta inventario directamente y administra tarifas en el PMS.
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Integrado en web de manera que, al saltar al proceso de reserva, mantenga el mismo #[em look and feel].
           tr(data-aos="fade-right")
-            td(style="background-color: #E8E8E8;") Manejo de #[em Allotment].
+            td(style="background-color: #E8E8E8;") Manejo de Allotment.
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Manejo de códigos promocionales, corporativos, empleados, fidelización.
           tr(data-aos="fade-right")
@@ -379,19 +379,19 @@
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Motor de reservas debe permitir visibilidad en metabuscadores.
           tr(data-aos="fade-right")
-            td(style="background-color: #E8E8E8;") Motor de reservas incrustable en #[em Facebook, Instagram] y #[em Twitter].
+            td(style="background-color: #E8E8E8;") Motor de reservas incrustable en Facebook, Instagram y Twitter.
           tr(data-aos="fade-right")
-            td(style="background-color: #FFF;") Motor de reservas responsivo, tablet y motor de reservas específico para versión #[em mobile]. (#[em Look & Feel]).
+            td(style="background-color: #FFF;") Motor de reservas responsivo, #[em tablet] y motor de reservas específico para versión #[em mobile (look and feel)].
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Multidivisas y multiidioma.
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Posibilidad de cancelación y modificación vía hotel y usuario final, bajo condiciones específicas.
           tr(data-aos="fade-right")
-            td(style="background-color: #E8E8E8;") Posibilidad de crear restricciones de tarifas: LOS mínimo y máximo, CTA; CTD; Compra Anticipada; #[em Day of Week].
+            td(style="background-color: #E8E8E8;") Posibilidad de crear restricciones de tarifas: Los mínimos y máximos, CTA; CTD; Compra Anticipada; #[em Day of Week].
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Posibilidad de reserva de varias habitaciones en un mismo proceso de reserva.
           tr(data-aos="fade-right")
-            td(style="background-color: #E8E8E8;") Posibilidad de tarificar inventario según la IP del usuario que accede al motor de reservas. (#[em Geomarketing]).
+            td(style="background-color: #E8E8E8;") Posibilidad de tarificar inventario según la IP del usuario que accede al motor de reservas (#[em geomarketing]).
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Proceso de reservas rápido y sencillo: no usar demasiados campos obligatorios.
           tr(data-aos="fade-right")
@@ -403,14 +403,14 @@
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Venta de extras, por ejemplo: al añadir una habitación, muestra un mensaje del tipo “agregar elementos adicionales”.
           tr(data-aos="fade-right")
-            td(style="background-color: #E8E8E8;") Vista amigable y manejo vía #[em Dashboard] (vista de calendario).
+            td(style="background-color: #E8E8E8;") Vista amigable y manejo vía #[em dashboard] (vista de calendario).
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Vista de tarifas configurable.
 
     .row.mb-5(data-aos="fade-right")
       .col-auto
         .BGR05.px-3.py-2
-          .h4.mb-0 <i class="fas fa-globe fa-spin"></i> #[em Channel Manager]
+          .h4.mb-0 <i class="fas fa-globe fa-spin"></i> Channel Manager
         
     p.mb-5(data-aos="fade-right") Con la explosión de canales para la comercialización electrónica de alojamientos, se vuelve muy complejo el control del inventario, tarifas y operación de los mismos.
 
@@ -418,11 +418,14 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 3.
-          span #[em Channel Manager]
+          span Channel Manager
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img22.jpg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img22.jpg' alt="Figura que muestra los logos de cada una de las marcas y estas se utilizaron en un trabajo educativo.")
+        .BG17.p-4
+          .h5.text-center Autor: Harbey Castelblanco
+          p.text-center.mb-0  Los logos utilizados pertenecen a cada una de las marcas y fueron usados como referencia, este es un trabajo educativo sin fines comerciales. Las imágenes de los logos e iconografía fueron obtenidas de #[a(href="flaticon.com" target="_blank") flaticon.com], #[a(href="freepik.com" target="_blank") freepik.com] y las webs de las marcas.
 
-    p.mb-5(data-aos="fade-right") El gestor de canales “#[em Channel Manager]” es un #[em software] que permite ofertar las habitaciones del hotel en múltiples canales a los que la propiedad esté conectada, procesando el inventario en tiempo real, minimizando el riesgo de sobreventas. Dentro de las principales características a analizar para adquirir este tipo de herramientas, están:
+    p.mb-5(data-aos="fade-right") El gestor de canales “Channel Manager” es un #[em software] que permite ofertar las habitaciones del hotel en múltiples canales a los que la propiedad esté conectada, procesando el inventario en tiempo real, minimizando el riesgo de sobreventas. Dentro de las principales características a analizar para adquirir este tipo de herramientas, están:
 
     ul.lista-ul--color.lista-ul--separador.ms-5.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -451,7 +454,7 @@
         | Monitoreo de precios de la competencia.
       li(style="margin-bottom: 2px" data-aos="fade-right")
         i.fas.fa-star(style="color: #2B95F9;")
-        | Overbooking mínimo.
+        p.mb-0 #[em Overbooking] mínimo.
       li(style="margin-bottom: 2px" data-aos="fade-right")
         i.fas.fa-star(style="color: #2B95F9;")
         | Portafolio amplio de conexiones para seleccionar los canales adecuados para su hotel.   
@@ -459,7 +462,7 @@
     .row.mb-5(data-aos="fade-right")
       .col-auto
         .BGR05.px-3.py-2
-          .h4.mb-0 <i class="fas fa-globe fa-spin"></i> Gestor de comentarios (#[em Reputation Manager])
+          .h4.mb-0 <i class="fas fa-globe fa-spin"></i> Gestor de comentarios (Reputation Manager)
 
     p(data-aos="fade-right") Una de las principales características del comprador moderno es que está informado y contrasta información. Debido a este fenómeno, tener una reputación #[em online] bien cuidada es uno de los principales motores de venta hoy en día. El antiguo “voz a voz” son ahora los comentarios de redes sociales o de las plataformas de comercio.
     p.mb-5(data-aos="fade-right") La reputación #[em online] es todo el conjunto de elementos que representan el prestigio de una marca o persona en la red. Estas “señales” las forman, sobre todo, los propios usuarios/consumidores, por lo que es de vital importancia cuidarla; en caso contrario, no se podrá modificar una visión negativa fácilmente. (Meijomil, 2022).
@@ -509,41 +512,47 @@
               img(src='@/assets/curso/tema1/img24.svg')
 
           .row.justify-content-center(x="50%" y="12%" tooltip="Billeteras electrónicas" numero="1")
-            .col-lg-7.order-lg-1.order-2
-              .h5.text-white.mb-3 Billeteras electrónicas
-              p.text-white.mb-0 Son aplicativos de pago bancarizados y no bancarizados (#[em Fintech]), que ofrecen a los clientes transar montos bajos y realizar pagos, la premisa general es reemplazar el efectivo y, al parecer, se está logrando, ya que cada vez son más los usuarios de estas apps. Entre las más conocidas, tenemos: #[em Tpaga], Nequi (Bancolombia), #[em Movii, Powwi], Davipay (Davivienda), #[em Rappi Pay, Tuya], Billetera Colpatria, Bbva #[em Wallet] y Billetera Móvil Bancolombia.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            .col-lg-5.col-10.mb-4
               img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
+            .col-lg-8
+              .h5.text-white.mb-3 Billeteras electrónicas
+              p.text-white.mb-0 Son aplicativos de pago bancarizados y no bancarizados (#[em fintech]), que ofrecen a los clientes transar montos bajos y realizar pagos, la premisa general es reemplazar el efectivo y, al parecer, se está logrando, ya que cada vez son más los usuarios de estas #[em apps]. Entre las más conocidas, se tienen: Tpaga, Nequi (Bancolombia), Movii, Powwi, Davipay (Davivienda), Rappi Pay, Tuya, Billetera Colpatria, Bbva Wallet y Billetera Móvil Bancolombia.
+            
           .row.justify-content-center(x="83%" y="31%" tooltip="Botones de pago" numero="2")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-5.col-10.mb-4
+              img(src='@/assets/curso/tema1/img26.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Botones de pago
               p.text-white.mb-0 En este caso, se redirige al cliente a la entidad bancaria, para que efectúe allí el pago. De este modo, el vendedor no accede a los datos del cliente. El botón de pago más conocido es PSE.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
+            
           .row.justify-content-center(x="83%" y="69%" tooltip="Contra reembolso" numero="3")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-5.col-10.mb-4
+              img(src='@/assets/curso/tema1/img27.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Contra reembolso
               p.text-white.mb-0 Sistema en el cual el consumidor únicamente le paga a la agencia de transporte / mensajería cuando le entrega el producto y, de esta forma, siempre tiene el 100 % de garantías. Hay unos costes adicionales de aproximadamente el 3 % del pedido, en caso de utilizar este sistema. Es popular en los sistemas de domicilios de comida.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
+            
           .row.justify-content-center(x="50%" y="88%" tooltip="Formulario  de pago" numero="4")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-5.col-10.mb-4
+              img(src='@/assets/curso/tema1/img28.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Formulario  de pago
               p.text-white.mb-0 En este sistema, el cliente rellena un formulario y efectúa la compra. Este sistema conlleva riesgos de seguridad, ya que el vendedor tiene acceso a los datos de la tarjeta de crédito del cliente. Es bastante difundido en las Agencias de Viaje en línea (OTA), ya que se usa para garantizar reservas, cobrándolas cuando se causan o cuando, por algún incumplimiento, se cobra una penalidad.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
+            
           .row.justify-content-center(x="17%" y="69%" tooltip="Pasarelas de pago o TPV virtual  (terminal de punto de venta virtual)" numero="5")
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-5.col-10.mb-4
+              img(src='@/assets/curso/tema1/img29.png' alt="Imagen decorativa")
+            .col-lg-8
               .h5.text-white.mb-3 Pasarelas de pago o TPV virtual  (terminal de punto de venta virtual)
-              p.text-white.mb-0 Son sistemas (aplicativos web) que permiten al vendedor aceptar tarjetas de crédito y otros métodos de pago electrónico. Se trata de un servicio que automatiza la operación de pago entre el cliente y el vendedor, a través de un sistema de procesos informáticos que verifica o rechaza las operaciones de tarjetas en nombre del comerciante, por medio de conexiones seguras de Internet. El costo de transacción es de aproximadamente el 4% de la venta. En Colombia hay más de 30 de estas empresas dedicadas al recaudo de pagos, todas cumplen estándares de seguridad con protocolos SSL (#[em secure sockets layers]) y encriptación de datos. Las más conocidas son: #[em PayU, ePayco, OpenPay, PayZen], MercadoPago, d-local.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
-          .row.justify-content-center(x="17%" y="31%" tooltip="Pay Pal" numero="6")
-            .col-lg-7.order-lg-1.order-2
-              .h5.text-white.mb-3 Pay Pal
+              p.text-white.mb-0 Son sistemas (aplicativos web) que permiten al vendedor aceptar tarjetas de crédito y otros métodos de pago electrónico. Se trata de un servicio que automatiza la operación de pago entre el cliente y el vendedor, a través de un sistema de procesos informáticos que verifica o rechaza las operaciones de tarjetas en nombre del comerciante, por medio de conexiones seguras de Internet. El costo de transacción es de aproximadamente el 4 % de la venta. En Colombia hay más de 30 de estas empresas dedicadas al recaudo de pagos, todas cumplen estándares de seguridad con protocolos SSL (#[em secure sockets layers]) y encriptación de datos. Las más conocidas son: PayU, ePayco, OpenPay, PayZen, MercadoPago, d-local.
+            
+          .row.justify-content-center(x="17%" y="31%" tooltip="PayPal" numero="6")
+            .col-lg-5.col-10.mb-4
+              img(src='@/assets/curso/tema1/img30.png' alt="Imagen decorativa")
+            .col-lg-8
+              .h5.text-white.mb-3 PayPal
               p.text-white.mb-0 Este sistema de pago pertenece a eBay y consiste en la transferencia de dinero entre usuarios vinculando una cuenta de correo electrónico a las cuentas bancarias correspondientes a las tarjetas de crédito.
-            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
+            
 
     separador
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -556,7 +565,7 @@
         .BG08.p-4.mb-4
           p Al hablar de comercio electrónico, la logística tiene una gran relevancia en el éxito o fracaso del proyecto. Se refiere a todo lo que tiene que ver con almacenamiento, transporte y entrega de los productos. Cualquier error en el proceso disminuye las posibilidades de fidelizar al cliente.
           p.mb-0 El tema logístico es un punto de difícil tratamiento, ya que al cliente final poco le importa lo que hay que hacer para llevar un producto a su puerta. A él le interesa que, una vez efectuada la compra, el producto llegue en el menor tiempo posible, y, de otro lado, el cliente tampoco está dispuesto a pagar por servicios premium de entrega rápida que suelen ser bastante costosos.
-        p.mb-0 De cualquier forma, el sistema logístico ha evolucionado mucho y se ha especializado en sus diferentes etapas, logrando sinergias eficientes y a costos asequibles. En Colombia, las empresas con mayor experiencia en el ramo son Servientrega, Interrapidísimo, Coordinadora, Envía y TCC. También están las compañías internacionales como FedEx, UPS y, por supuesto, compañías de logística de última milla como #[em RapiGo, Speedy Zubale, Cubbo], por mencionar solo algunas.
+        p.mb-0 De cualquier forma, el sistema logístico ha evolucionado mucho y se ha especializado en sus diferentes etapas, logrando sinergias eficientes y a costos asequibles. En Colombia, las empresas con mayor experiencia en el ramo son Servientrega, Interrapidísimo, Coordinadora, Envía y TCC. También están las compañías internacionales como FedEx, UPS y, por supuesto, compañías de logística de última milla como RapiGo, Speedy Zubale, Cubbo, por mencionar solo algunas.
 
     .BGS09.p-4.mb-5(data-aos="flip-up")
       p.mb-0 #[em Fulfillment] es el término que describe el proceso de, tratamiento de una orden de comercio electrónico y abarca el proceso de recepción, almacenamiento, empaquetado y envió de mercancías. La idea es que este proceso sea interno, pero es un proceso que requiere de grandes infraestructuras físicas (bodegas) y tecnológicas (#[em software] de seguimiento), es por eso por lo que han nacido las compañías especializadas en este proceso, que ponen estas infraestructuras al servicio de comercios más pequeños.
@@ -583,14 +592,14 @@
         .h4.text-center(data-aos="fade-left") Etapa 1
         LineaTiempoD.color-acento-botones.mb-4(data-aos="fade-left")
           p.text-small(numero="1" titulo="Cualificación de prospectos") Primero, determinar si vale la pena invertir esfuerzo en la elaboración de la propuesta comercial. Buscar prospectos que sean lo más afines posibles al buyer persona. Este análisis es esencial, para maximizar los resultados y  focalizar el esfuerzo donde haya mayor probabilidad de éxito, ya que la interacción digital inicial es informativa y suele llamar la atención, no solo de posibles clientes, sino de otros públicos.
-            | <br><br>Aquí debe utilizar técnicas del lead scoring, para establecer si los prospectos son:
+            | <br><br>Aquí debe utilizar técnicas del #[em lead scoring], para establecer si los prospectos son:
             | <br>#[strong TOFU]: Top of the funnel o prospectos fríos.
             | <br>#[strong MOFU]: Middle of the funnel o prospectos tibios.
             | <br>#[strong BOFU]: Bottom of the funnel o prospectos calientes (listos para la compra).
-          p.text-small(numero="2" titulo="Entrevista inicial o briefing") Normalmente, uno no confía en alguien que lleve una solución sin haber intentado entender el problema o profundizado en los síntomas. Por tal razón, se hace la  reunión de briefing. Este es el momento de iniciar una relación de confianza. Se deben tener en cuenta tres cosas básicas: crear afinidad, escuchar y hacer las preguntas correctas.
+          p.text-small(numero="2" titulo="Entrevista inicial o <em>briefing</em>") Normalmente, uno no confía en alguien que lleve una solución sin haber intentado entender el problema o profundizado en los síntomas. Por tal razón, se hace la  reunión de #[em briefing]. Este es el momento de iniciar una relación de confianza. Se deben tener en cuenta tres cosas básicas: crear afinidad, escuchar y hacer las preguntas correctas.
         .h4.text-center(data-aos="fade-left") Etapa 2
         LineaTiempoD.color-primario.mb-4(data-aos="fade-left")
-          p.text-small(numero="3" titulo="Construcción de la solución") Recuerde que las necesidades de cada cliente son particulares y, por tanto, la propuesta debe ser diferente para cada uno. Hay que tomar la información proporcionada por el cliente en el briefing y reflexionar e investigar. La mayoría de las veces, el cliente no sabe las respuestas a sus preguntas y es su deber dárselas.
+          p.text-small(numero="3" titulo="Construcción de la solución") Recuerde que las necesidades de cada cliente son particulares y, por tanto, la propuesta debe ser diferente para cada uno. Hay que tomar la información proporcionada por el cliente en el #[em briefing] y reflexionar e investigar. La mayoría de las veces, el cliente no sabe las respuestas a sus preguntas y es su deber dárselas.
             | <br>Adicionalmente, analice la competencia, con esto tendrá la información necesaria para construir una verdadera solución. 
           p.text-small(numero="4" titulo="Presentación de la propuesta") Organiza una presentación práctica y que toque los puntos neurálgicos:
             ul.lista-ul--color
@@ -611,7 +620,7 @@
                 | Competencia
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
-                | Plantáctico
+                | Plan táctico
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
                 | Inversión
@@ -761,6 +770,8 @@
         p Dentro de la venta digital, hay múltiples herramientas que funcionan como medios para generar ventas, pero también como medios de interacción y comunicación. 
         p.mb-0 Por este motivo, hay que utilizarlos responsablemente, pero sobre todo enfocados a brindar un servicio genuino. Entre estas herramientas, están los servicios de chat, los #[em bots] de servicio, los formularios de contacto, los enlaces telefónicos, los foros o los grupos de ayuda y las redes sociales. Todos ellos, individualmente o en conjunto, cumplen la misma función: establecer una comunicación con el cliente. Se debe recordar que la gran mayoría de las veces un cliente solo desea ser escuchado.
 
+    p.mb-5(data-aos="fade-right") En relación al servicio al cliente, hay unas características que deben tenerse en cuenta:
+
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="zoom-in")
         ImagenInfograficaB.color-acento-botones
@@ -850,12 +861,12 @@ export default {
       },
       {
         texto:
-          'La fotografía gastronómica representa grandes retos a la hora de transmitir las características del producto, pero, además, suplir una necesidad primaria del ser humano.',
+          'La fotografía gastronómica representa grandes retos a la hora de transmitir las características del producto, que, además, suple una necesidad primaria del ser humano.',
         imagen: require('@/assets/curso/tema1/img04.png'),
       },
       {
         texto:
-          'O qué tal ese evento al que queremos asistir, escuchar a nuestro cantante o grupo musical favorito, y que viene a un lugar cercano a nosotros.',
+          ' La venta <em>online</em> incluye también la promoción de eventos como conciertos y festivales.',
         imagen: require('@/assets/curso/tema1/img05.png'),
       },
     ],
