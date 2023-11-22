@@ -79,9 +79,19 @@
 
     .row.justify-content-around.mb-5
       .col-lg-4.col-sm-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img01.svg' alt="Imagen decorativa")
+        .imagen-titulo--der.color-secundario
+          figure
+            img(src='@/assets/curso/tema2/img01.svg' alt="Imagen decorativa")
+          .imagen-titulo__titulo
+            h4.text-center Detectar necesidades no satisfechas
+            p.text-center.mb-0 La posibilidad de detectar necesidades que no se han satisfecho adecuadamente y que ahora se está en condiciones de satisfacer.
       .col-lg-4.col-sm-8(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
+        .imagen-titulo--der.color-secundario
+          figure
+            img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
+          .imagen-titulo__titulo
+            h4.text-center Mercado global y divergente
+            p.text-center.mb-0 Que es un mercado global, con muchos usuarios y con una gran variedad de comportamientos y gustos, y a los que es posible servir con una oferta personalizada.
 
     p(data-aos="fade-right") En ambos casos, esto se consigue por dos características distintivas del entorno digital, como son: la interconectividad (todo está interrelacionado) y la interactividad (es posible mantener una comunicación real en doble vía). 
     p(data-aos="fade-right") Dicho de otra forma, con Internet se dispone de la posibilidad de crear productos y servicios acordes con lo que el consumidor quiere, y modificarlos cuando lo pida, siempre y cuando sus propuestas sean viables económica y técnicamente. Esto nos lleva como empresa a la necesidad de aclarar el posicionamiento y la diferenciación que se quiere alcanzar. 
@@ -354,11 +364,26 @@
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img11.svg' alt="Imagen decorativa")
+        .imagen-titulo--der.color-secundario
+          figure
+            img(src='@/assets/curso/tema2/img11.svg' alt="Imagen decorativa")
+          .imagen-titulo__titulo
+            h4.text-center Repercusión directa
+            p.text-center.mb-0 El comprador cubre la totalidad del pago por el producto o servicio, y lo hace directamente en red, siendo la fórmula más empleada en tiendas virtuales.
       .col-xl-4.col-md-6.col-10.mb-xl-0.mb-4(data-aos="flip-up")
-        img(src='@/assets/curso/tema2/img12.svg' alt="Imagen decorativa")
+        .imagen-titulo--der.color-secundario
+          figure
+            img(src='@/assets/curso/tema2/img12.svg' alt="Imagen decorativa")
+          .imagen-titulo__titulo
+            h4.text-center Repercusión indirecta
+            p.text-center.mb-0 El comprador accede a productos y servicios de forma gratuita, y el coste de comercialización lo asumen terceros, en muy diversas fórmulas. Lo emplean los portales, especialmente.
       .col-xl-4.col-md-6.col-10(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
+        .imagen-titulo--der.color-secundario
+          figure
+            img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
+          .imagen-titulo__titulo
+            h4.text-center Repercusión combinada
+            p.text-center.mb-0  El comprador paga por adquirir un producto o servicio, pero el vendedor, además, recibe ingresos adicionales por la explotación de su espacio comercial (publicidad, patrocinios, comisiones por venta de productos de terceros).
 
     p.mb-5(data-aos="fade-right") La repercusión combinada es típica en sitios web especializados, servicios de contenidos con pago por suscripción, y servicios de información y consultoría. La fórmula tiene múltiples variantes y permite introducir estrategias próximas a la repercusión directa.
 

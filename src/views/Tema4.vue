@@ -877,7 +877,7 @@ export default {
     datosSlyder: [
       {
         texto:
-          'Esta disciplina tuvo sus inicios en la década del 70, de la mano del analista Kenneth Linwood, quien, como parte de su trabajo para la aerolínea British Airways, presentó el informe “<em>Forecasting and Control of Passenger bookings</em>”, en español, pronóstico y control de reservas de pasajeros.',
+          'Esta disciplina tuvo sus inicios en la década del 70, de la mano del analista Kenneth Linwood, quien, como parte de su trabajo para la aerolínea British Airways, presentó el informe “Forecasting and Control of Passenger bookings”, en español, pronóstico y control de reservas de pasajeros.',
         imagen: require('@/assets/curso/tema4/img24.svg'),
       },
       {
@@ -892,7 +892,7 @@ export default {
       },
       {
         texto:
-          'En 1985, la aerolínea American Airlines lanza la tarifa “<em>Ultimate Super Savers</em>”, que ofrecía descuentos hasta del 74 % en condiciones de compra más restrictivas. Es así como esta empresa desarrolló el sistema DINAMO (<em>Dynamic Inventory and Maintenance Optimizer</em>), un sistema basado en la regla Linwood, que calculaba la probabilidad de vender el último asiento a la tarifa <em>full</em>, y con esa base calculaba cuántos asientos ofrecer a la tarifa USS.',
+          'En 1985, la aerolínea American Airlines lanza la tarifa “Ultimate Super Savers”, que ofrecía descuentos hasta del 74 % en condiciones de compra más restrictivas. Es así como esta empresa desarrolló el sistema DINAMO (Dynamic Inventory and Maintenance Optimizer), un sistema basado en la regla Linwood, que calculaba la probabilidad de vender el último asiento a la tarifa <em>full</em>, y con esa base calculaba cuántos asientos ofrecer a la tarifa USS.',
         imagen: require('@/assets/curso/tema4/img27.jpg'),
       },
       {
