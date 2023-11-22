@@ -78,14 +78,14 @@
     p.mb-5(data-aos="fade-right") Existen dos aspectos esenciales que brinda Internet:
 
     .row.justify-content-around.mb-5
-      .col-lg-4.col-sm-8.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-xl-4.col-lg-6.col-sm-8.mb-lg-0.mb-4(data-aos="fade-right")
         .imagen-titulo--der.color-secundario
           figure
             img(src='@/assets/curso/tema2/img01.svg' alt="Imagen decorativa")
           .imagen-titulo__titulo
             h4.text-center Detectar necesidades no satisfechas
             p.text-center.mb-0 La posibilidad de detectar necesidades que no se han satisfecho adecuadamente y que ahora se está en condiciones de satisfacer.
-      .col-lg-4.col-sm-8(data-aos="fade-left")
+      .col-xl-4.col-lg-6.col-sm-8(data-aos="fade-left")
         .imagen-titulo--der.color-secundario
           figure
             img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
@@ -363,21 +363,21 @@
     p.mb-5(data-aos="fade-right") A la hora de la fijación de precios, el primer análisis a realizar es el del método de repercusión de precios. En Internet, se observan varias fórmulas, como se detalla a continuación:
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-4.col-lg-6.col-sm-8.mb-xl-0.mb-4(data-aos="fade-right")
         .imagen-titulo--der.color-secundario
           figure
             img(src='@/assets/curso/tema2/img11.svg' alt="Imagen decorativa")
           .imagen-titulo__titulo
             h4.text-center Repercusión directa
             p.text-center.mb-0 El comprador cubre la totalidad del pago por el producto o servicio, y lo hace directamente en red, siendo la fórmula más empleada en tiendas virtuales.
-      .col-xl-4.col-md-6.col-10.mb-xl-0.mb-4(data-aos="flip-up")
+      .col-xl-4.col-lg-6.col-sm-8.mb-xl-0.mb-4(data-aos="flip-up")
         .imagen-titulo--der.color-secundario
           figure
             img(src='@/assets/curso/tema2/img12.svg' alt="Imagen decorativa")
           .imagen-titulo__titulo
             h4.text-center Repercusión indirecta
             p.text-center.mb-0 El comprador accede a productos y servicios de forma gratuita, y el coste de comercialización lo asumen terceros, en muy diversas fórmulas. Lo emplean los portales, especialmente.
-      .col-xl-4.col-md-6.col-10(data-aos="fade-left")
+      .col-xl-4.col-lg-6.col-sm-8(data-aos="fade-left")
         .imagen-titulo--der.color-secundario
           figure
             img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
