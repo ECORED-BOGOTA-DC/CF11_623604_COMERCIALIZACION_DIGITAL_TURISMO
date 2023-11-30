@@ -727,7 +727,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/c5gtk-6v0rQ?si=QH5h6RscQL8z1TTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-right") Estas técnicas fueron creadas para la venta presencial, pero bien pueden ser aplicadas a la venta #[em online], ya que el común denominador de ellas es conocer al cliente o su necesidad y practicar la escucha activa. Usted podrá investigar más sobre cada una de estas técnicas e implementar la que más se acomode a su tipo de negocio.
 

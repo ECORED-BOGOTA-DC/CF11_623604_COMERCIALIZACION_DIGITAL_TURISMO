@@ -194,7 +194,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/623604_CF11_DU.pdf',
+        download: 'downloads/623604_CF11_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -378,7 +378,19 @@ export default {
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animador y Producción audiovisual',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animador y Producción audiovisual',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y Producción audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
