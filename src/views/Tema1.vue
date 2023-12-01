@@ -387,7 +387,7 @@
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Posibilidad de cancelación y modificación vía hotel y usuario final, bajo condiciones específicas.
           tr(data-aos="fade-right")
-            td(style="background-color: #E8E8E8;") Posibilidad de crear restricciones de tarifas: Los mínimos y máximos, CTA; CTD; Compra Anticipada; #[em Day of Week].
+            td(style="background-color: #E8E8E8;") Posibilidad de crear restricciones de tarifas: los mínimos y máximos, CTA; CTD; Compra Anticipada; #[em Day of Week].
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Posibilidad de reserva de varias habitaciones en un mismo proceso de reserva.
           tr(data-aos="fade-right")
