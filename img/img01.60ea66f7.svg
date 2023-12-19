@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="399.182" height="526.711" viewBox="0 0 399.182 526.711">
+  <g id="Grupo_1022496" data-name="Grupo 1022496" transform="translate(-285.818 -1658.867)">
+    <g id="Grupo_1022495" data-name="Grupo 1022495">
+      <g id="Grupo_1022376" data-name="Grupo 1022376" transform="translate(285.818 1658.867)">
+        <g id="Grupo_1022375" data-name="Grupo 1022375">
+          <path id="Trazado_750506" data-name="Trazado 750506" d="M0,480.195c0,6.8,7.355,12.311,16.417,12.311H229.869V0H16.417C7.355,0,0,5.51,0,12.311V480.19Z" fill="#e4f3ae"/>
+          <path id="Trazado_750507" data-name="Trazado 750507" d="M428.259,529.865c0,6.8-10.714,12.311-23.916,12.311H93.39V49.67H404.343c13.212,0,23.916,5.51,23.916,12.311V529.86Z" transform="translate(-29.078 -15.465)" fill="#f6f6f6"/>
+        </g>
+        <path id="Trazado_750508" data-name="Trazado 750508" d="M212.587,173.53H93.39V275.7h119.2a49.7,49.7,0,0,0,49.7-49.7v-2.761a49.7,49.7,0,0,0-49.7-49.7Z" transform="translate(-29.078 -67.965)" fill="#b3dd19"/>
+      </g>
+      <path id="Trazado_750509" data-name="Trazado 750509" d="M93.39,34.2,258.954,0V34.2Z" transform="translate(256.741 1658.867)" fill="#b3dd19"/>
+      <path id="Far_far_away_behind" data-name="Far far away, behind" d="M44.543,68H32.66V30.172l-11.672,3.41v-9l22.465-7.77h1.09Z" transform="translate(390.818 1770.81)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>
