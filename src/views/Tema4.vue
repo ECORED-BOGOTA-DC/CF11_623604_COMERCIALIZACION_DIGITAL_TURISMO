@@ -661,7 +661,7 @@
             .BGS07.py-2.px-5
               .h4.text-white.mb-0 Componentes del pronóstico
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img20.svg' alt="Figura que menciona los pilares componentes del pronóstico, estos pilares son:<br>Datos actuales, visión, datos futuros y datos históricos.")
+          img(src='@/assets/curso/tema4/img20.svg' alt="Figura que menciona los pilares componentes del pronóstico, estos pilares son: Datos actuales, visión, datos futuros y datos históricos.")
 
     p.mb-5(data-aos="fade-right") Y se explican mediante la siguiente tabla:
 
