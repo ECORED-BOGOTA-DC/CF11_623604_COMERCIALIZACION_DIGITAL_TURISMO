@@ -30,7 +30,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img02.svg')})`}")
             .tarjeta-flip__contenido.p-xxl-5.p-4
-              p Gracias a la híper conectividad, los consumidores modernos investigan, aprenden y comparten esa información.
+              p Gracias a la híperconectividad, los consumidores modernos investigan, aprenden y comparten esa información.
               p.mb-0 Esto da como resultado consumidores altamente educados, capaces de encontrar las propuestas de valor que mejor se ajustan a su necesidad.
       .col-xl-3.col-lg-4.col-md-6.col-sm-7.col-8.mb-xl-0.mb-4(data-aos="flip-right")
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")

@@ -67,7 +67,7 @@
           h5 Figura 7.
           span Requisitos para aplicar Revenue Management
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img03.svg' alt="Figura que describe los requisitos que se deben aplicar para Revenue Management.<br>Aerolíneas, pasajeros y carga<br>Avisos de televisión<br>Bares y clubes nocturnos<br>Buses<br>Campos de golf<br>Cruceros<br>Hoteles<br>Parqueaderos<br>Restaurantes<br>Renta de vehículos<br>Spas<br>Teatros y eventos públicos")
+          img(src='@/assets/curso/tema4/img03.svg' alt="Figura que describe los requisitos que se deben aplicar para Revenue Management.. Aerolíneas, pasajeros y carga. Avisos de televisión. Bares y clubes nocturnos. Buses. Campos de golf. Cruceros. Hoteles. Parqueaderos. Restaurantes. Renta de vehículos. Spas. Teatros y eventos públicos")
 
     p.mb-5(data-aos="fade-right") Al pensar por un momento en un hotel o un avión, es evidente que por ellos pasan muchas personas diferentes, en distintos momentos y, por supuesto, con necesidades distintas. Es allí, en esa variedad de usuarios, donde el Revenue Management toma forma y, a partir de la definición estudiada, se pueden observar cinco (5) grandes componentes que afectan la estructuración de esta disciplina:
     ul.lista-ul--color.lista-ul--separador.ms-5.mb-5
@@ -188,7 +188,7 @@
           h5 Figura 8.
           span Características segmentos
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img07.svg' alt="Figura que describe las características de los segmentos que son:<br>1. Ser accesible<br>¿Es un segmento que podemos entender?<br>2. Ser accionable<br>¿Reacciona a las acciones comerciales?<br>3. Ser medible<br>¿Cuál es el tamaño del segmento?<br>4. Ser significativo<br>¿Brinda valor a la empresa?")
+          img(src='@/assets/curso/tema4/img07.svg' alt="Figura que describe las características de los segmentos que son: 1. Ser accesible. ¿Es un segmento que podemos entender?. 2. Ser accionable. ¿Reacciona a las acciones comerciales?. 3. Ser medible. ¿Cuál es el tamaño del segmento?. 4. Ser significativo. ¿Brinda valor a la empresa?")
     
     p.mb-5(data-aos="fade-right") Una vez se han preformado los diferentes segmentos y subsegmentos de mercado, se pueden organizar en la matriz de segmentación, que es un documento que muestra a una sola vista los segmentos que se trabaja.
 
@@ -372,7 +372,7 @@
             .BGS07.py-2.px-5
               .h4.text-white.mb-0 Fijación de precios
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img09.svg' alt="Figura que describe la fijación de los precios, esto es:<br>Antes, precio basado en costo: Costo de producción, de distribución y porcentaje de beneficio.<br>Ahora, precio basado en demanda: costo de distribución, porcentaje de beneficio y beneficio de YIELD.")
+          img(src='@/assets/curso/tema4/img09.svg' alt="Figura que describe la fijación de los precios, esto es: Antes, precio basado en costo: Costo de producción, de distribución y porcentaje de beneficio.. Ahora, precio basado en demanda: costo de distribución, porcentaje de beneficio y beneficio de YIELD.")
     
     .row.mb-5(data-aos="fade-right")
       .col-auto
@@ -408,7 +408,7 @@
           .tarjeta.BG15.p-3(x="37%" y="39%" numero="3")
             p.text-white.mb-0 Es la tarifa que se le informó al cliente al momento de la reserva. Si al llegar el huésped no hay disponible una habitación acorde con la tarifa confirmada, se suele dar otra de mejor categoría por el mismo precio, lo que significa hacer un #[em upgrade].
           .tarjeta.BG15.p-3(x="48%" y="53%" numero="4")
-            p.text-white.mb-0 Esta tiene un descuento sobre la tarifa Rack y unas condiciones en su otorgamiento. Por lo general, se da solo en negociaciones con empresas, agencias y asociaciones, entre otras, con base en una producción mínima de noches por mes.
+            p.text-white.mb-0 Esta tiene un descuento sobre la tarifa #[em Rack] y unas condiciones en su otorgamiento. Por lo general, se da solo en negociaciones con empresas, agencias y asociaciones, entre otras, con base en una producción mínima de noches por mes.
           .tarjeta.BG15.p-3(x="48%" y="60%" numero="5")
             p.text-white.mb-0 Son las tarifas que se otorgan a determinadas entidades o personas que representan algún interés para el hotel. Por ejemplo: otros hoteles, asociaciones, conglomerados con condiciones delimitadas, empleados del hotel, amigos y familiares, etc.
           .tarjeta.BG15.p-3(x="48%" y="67%" numero="6")
@@ -439,7 +439,7 @@
           tr(data-aos="fade-right")
             th(style="background-color: #E8E8E8;")
             th(style="background-color: #E8E8E8;") Estándar
-            th(style="background-color: #E8E8E8;") Deluxe
+            th(style="background-color: #E8E8E8;") #[em Deluxe]
             th(style="background-color: #E8E8E8;") Junior Suite
             th(style="background-color: #E8E8E8;") Suite
           tr(data-aos="fade-right")
@@ -515,7 +515,7 @@
             th(style="background-color: #FFE4B9;") No reembolsable
             th(style="background-color: #FFE4B9;") Descuento
             th(style="background-color: #F6F6F6;") Estándar
-            th(style="background-color: #F6F6F6;") Deluxe
+            th(style="background-color: #F6F6F6;") #[em Deluxe]
             th(style="background-color: #F6F6F6;") Junior Suite
             th(style="background-color: #F6F6F6;") Suite
           tr(data-aos="fade-right")
@@ -529,7 +529,7 @@
             th(style="background-color: #FFE4B9;") Promoción compra anticipada +30
             th(style="background-color: #FFE4B9;") Descuento
             th(style="background-color: #F6F6F6;") Estándar
-            th(style="background-color: #F6F6F6;") Deluxe
+            th(style="background-color: #F6F6F6;") #[em Deluxe]
             th(style="background-color: #F6F6F6;") Junior Suite
             th(style="background-color: #F6F6F6;") Suite
           tr(data-aos="fade-right")
@@ -540,10 +540,10 @@
             td(style="background-color: #FFE4B9;").text-center $231.750
             td(style="background-color: #FFE4B9;").text-center $269.250
           tr(data-aos="fade-right")
-            th(style="background-color: #FFE4B9;") Promoción Long Stay 4+
+            th(style="background-color: #FFE4B9;") Promoción #[em Long Stay] 4+
             th(style="background-color: #FFE4B9;") Descuento
             th(style="background-color: #F6F6F6;") Estándar
-            th(style="background-color: #F6F6F6;") Deluxe
+            th(style="background-color: #F6F6F6;") #[em Deluxe]
             th(style="background-color: #F6F6F6;") Junior Suite
             th(style="background-color: #F6F6F6;") Suite
           tr(data-aos="fade-right")
@@ -786,7 +786,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img21.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img21.svg' alt="Figura que menciona las fases. Fase 1. Datos históricos.  Fase 2. Datos actuales. Fase 3. Booking Pace. Fase 4. Calendario de eventos. Fase 5. Pricing. Fase 6. Pick.Up.")
 
     .row.mb-5(data-aos="fade-right")
       .col-auto

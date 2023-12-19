@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.jpg')})`}" data-aos="fade-right" alt="Imagen decorativa"
       )
       .bloque-texto-g__texto.py-md-5.py-4.px-4(data-aos="fade-left")
-        p.mb-0 Exhibir en la red productos, marcas, servicios, etc., debe tener como objetivo “convertir al navegante en cliente”. Está demostrado que la mayor parte de los usuarios siempre dejan para después su decisión de comprar, a pesar de estar convencidos y persuadidos para hacerlo. Siempre encuentran una razón, como ver si pueden obtener mejores precios en otro lugar o esperar a contrastar su decisión con otra persona de confianza (amigos, compañeros o familiares); o esperar a ver y tocar el producto en una tienda física.
+        p.mb-0 Exhibir en la red productos, marcas, servicios, etc., debe tener como objetivo “convertir al navegante en cliente”. Está demostrado que la mayor parte de los usuarios siempre dejan para después su decisión de comprar, a pesar de estar convencidos y persuadidos para hacerlo. Siempre encuentran una razón, como ver si pueden obtener mejores precios en otro lugar, o esperar a contrastar su decisión con otra persona de confianza (amigos, compañeros o familiares), o esperar a ver y tocar el producto en una tienda física.
 
     p.mb-5 Pero, en esencia, la #[strong venta #[em online]] consiste en lograr que los potenciales clientes se conviertan en clientes y compren. Para lograr esto, en primer lugar, hay que reflexionar sobre quiénes son sus clientes potenciales y cuáles son las motivaciones por las que se pueden interesar en sus productos o servicios o sobre cuáles son las razones o motivos que esos usuarios podrían tener para no tomar una decisión en el instante en que han entrado en su sitio web.
 
@@ -361,13 +361,13 @@
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Guardar datos de pasajeros para agilizar proceso de reserva.
           tr(data-aos="fade-right")
-            td(style="background-color: #FFF;") Integración con Channel Manager en doble vía.
+            td(style="background-color: #FFF;") Integración con #[em Channel Manager] en doble vía.
           tr(data-aos="fade-right")
             td(style="background-color: #E8E8E8;") Integración con PMS en doble vía: carga y descuenta inventario directamente y administra tarifas en el PMS.
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Integrado en web de manera que, al saltar al proceso de reserva, mantenga el mismo #[em look and feel].
           tr(data-aos="fade-right")
-            td(style="background-color: #E8E8E8;") Manejo de Allotment.
+            td(style="background-color: #E8E8E8;") Manejo de #[em Allotment].
           tr(data-aos="fade-right")
             td(style="background-color: #FFF;") Manejo de códigos promocionales, corporativos, empleados, fidelización.
           tr(data-aos="fade-right")
@@ -410,7 +410,7 @@
     .row.mb-5(data-aos="fade-right")
       .col-auto
         .BGR05.px-3.py-2
-          .h4.mb-0 <i class="fas fa-globe fa-spin"></i> Channel Manager
+          .h4.mb-0 <i class="fas fa-globe fa-spin"></i> #[em Channel Manager]
         
     p.mb-5(data-aos="fade-right") Con la explosión de canales para la comercialización electrónica de alojamientos, se vuelve muy complejo el control del inventario, tarifas y operación de los mismos.
 
@@ -418,14 +418,14 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 3.
-          span Channel Manager
+          span #[em Channel Manager]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img22.jpg' alt="Figura que muestra los logos de cada una de las marcas y estas se utilizaron en un trabajo educativo.")
         .BG17.p-4
           .h5.text-center Autor: Harbey Castelblanco
           p.text-center.mb-0  Los logos utilizados pertenecen a cada una de las marcas y fueron usados como referencia, este es un trabajo educativo sin fines comerciales. Las imágenes de los logos e iconografía fueron obtenidas de #[a(href="flaticon.com" target="_blank") flaticon.com], #[a(href="freepik.com" target="_blank") freepik.com] y las webs de las marcas.
 
-    p.mb-5(data-aos="fade-right") El gestor de canales “Channel Manager” es un #[em software] que permite ofertar las habitaciones del hotel en múltiples canales a los que la propiedad esté conectada, procesando el inventario en tiempo real, minimizando el riesgo de sobreventas. Dentro de las principales características a analizar para adquirir este tipo de herramientas, están:
+    p.mb-5(data-aos="fade-right") El gestor de canales #[em Channel Manager] es un #[em software] que permite ofertar las habitaciones del hotel en múltiples canales a los que la propiedad esté conectada, procesando el inventario en tiempo real, minimizando el riesgo de sobreventas. Dentro de las principales características a analizar para adquirir este tipo de herramientas, están:
 
     ul.lista-ul--color.lista-ul--separador.ms-5.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -803,7 +803,7 @@
               img(src='@/assets/curso/tema1/img39.png' alt="Imagen decorativa")
 
     p(data-aos="fade-right") Teniendo en cuenta todos los ítems anteriormente mencionados, podrá construir propuestas comerciales exitosas para las actividades turísticas que decida promover. 
-    p.mb-5(data-aos="fade-right") Cada negocio es diferente y, en ese sentido, encontrará que al final del tiempo la práctica hace al maestro. Es decir que se debe practicar y testear para lograr un método de preparación de las propuestas comerciales que lo haga sentir confiado de lograr el objetivo final, que consiste en cerrar la venta.
+    p.mb-5(data-aos="fade-right") Cada negocio es diferente y, en ese sentido, encontrará que al final del tiempo la práctica hace al maestro. Es decir, que se debe practicar y testear para lograr un método de preparación de las propuestas comerciales que lo haga sentir confiado de lograr el objetivo final, que consiste en cerrar la venta.
 
     .row.mb-5(data-aos="fade-right")
       .col-auto
